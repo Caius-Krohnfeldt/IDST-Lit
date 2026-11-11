@@ -1,0 +1,42 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Massumi]], Brian
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- Cultural Critique
+- Form/Type
+	- Journal Article
+- Publication Year
+	- [[1995]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 31
+- Pages
+	- 81-109
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Massumi]], Brian. [[“The Autonomy of Affect”]] Cultural Critique, no. 31 (1995): 83–109. https://doi.org/10.2307/1354446.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Massumi argues that affect, understood as intensity, follows a different logic from emotion. Cultural theory therefore needs a vocabulary for affect that does not come from theories of signification (Massumi 1995, 88). He builds the argument through a series of stories. In the first, Hertha Sturm's study of children watching a wordless film of a melting snowman, "sad" scenes were rated the most pleasant. The factual voice-over produced the most heartbeat and breathing arousal but was remembered least (Massumi 1995, 83–84). Massumi concludes that an image's content, or "quality," does not correspond to its effect, or "intensity." The two levels relate through resonance or interference, not conformity (Massumi 1995, 85–86). Emotion, in his formulation, is "qualified intensity": intensity owned, recognized, and inserted into narrative and function (Massumi 1995, 88). Because affect is unqualified, it cannot be owned and resists critique. He names Spinoza as a key precursor (Massumi 1995, 88–89). 
+	- The second story concerns Benjamin Libet's experiments showing a "missing half-second" between brain activity and conscious decision. Massumi argues that the half-second is overfull rather than empty, and that will and consciousness are subtractive (Massumi 1995, 89–90). He insists that intensity is not a raw, presocial domain, since the body infolds social contexts, volitions, and cognitions (Massumi 1995, 90–91). Drawing on Bergson, Spinoza, Deleuze, Simondon, and complexity theory, he argues that the body is as virtual as it is actual. Affect is the two-sidedness of virtual and actual, and its "autonomy" is its openness (Massumi 1995, 91–96). He also criticizes social constructivism for making culture the measure of all things and urges cultural theorists to "let matter be matter" (Massumi 1995, 100).
+	- The final stories apply this to politics. Ronald Reagan's gestural and verbal incoherence worked affectively, as a "mime effect." Apparatuses such as the family, church, and media turned his effect into confidence and "affective jingoism" (Massumi 1995, 101–3). Massumi concludes that affect is a real condition of late capitalism, "beyond infrastructural" and transversal (Massumi 1995, 104–7).
+- Main Claim(s)
+	- There needs to be an affect-specific vocabulary which gets at its asignification, so that theoretical moves don't accidentally (or intentionally) make humanity the measure of all things. Instead, all culture must be defined as nature naturing (as opposed to nature being some sort of construct of culture). 
+- Direct Quote(s)
+	- The problem is that there is no cultural-theoretical vocabulary specific to affect. Our entire vocabulary has derived from theories of signification that are still wedded to structure even across irreconciliable differences (the divorce proceedings of poststructuralism: terminable or interminable?). In the absence of an asignifying philosophy of affect, it is all too easy for received psychological categories to slip back in, undoing the considerable deconstructive work that has been effectively carried out by poststructuralism. (88)
+	- An emotion is a subjective content, the socio-linguistic fixing of the quality of an experience which is from that point onward defined as personal. Emotion is qualified intensity, the conventional, consensual point of insertion of intensity into semantically and semiotically formed progressions, into narrativizable action-reaction circuits, into function and meaning. It is intensity owned and recognized. It is crucial to theorize the difference between affect and emotion. If some have the impression that it has waned, it is because affect is unqualified. As such, it is not ownable or recognizable, and is thus resistant to critique. (88)
+	- Theoretical moves aimed at ending the Human end up making human culture the measure and meaning of all things, in a kind of unfettered anthropomorphism precluding to take one example-articulations of cultural theory and ecology. It is meaningless to interrogate the relation of the human to the nonhuman if the nonhuman is only a construct of human culture, or inertness. The concepts of nature and culture need serious reworking, in a way that expresses the irreducible alterity of the nonhuman in and through its active connection to the human, and vice versa. It is time that cultural theorists let matter be matter, brains be brains, jellyfish be jellyfish, and culture be nature, in irreducible alterity and infinite connection. (100)

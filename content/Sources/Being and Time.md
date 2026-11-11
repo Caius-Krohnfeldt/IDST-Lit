@@ -1,0 +1,47 @@
+- Epoch
+	- [[Late Modern]]
+- Author(s)
+	- [[Heidegger]], Martin
+- Translator(s)
+	- [[Stambaugh]], Joan
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 2010
+- Original Date
+	- [[1927]]
+- Publisher(s)
+	- State University of New York Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Heidegger, Martin. Being and Time. Translated by Joan Stambaugh. State University of New York Press, 2010.
+- Section/Chapters for use
+	- §9
+	- §16
+	- §18
+	- §29
+	- §31
+	- §38
+	- §39
+	- §41
+- "Abstract"
+	- These sections trace the existential analytic of Dasein from its starting point to the claim that Dasein's being is care. Section 9 establishes that the essence of Dasein lies in its existence. Its characteristics are possible ways to be, not present-at-hand properties, and its being is always its own ("mineness"), so it can be authentic or inauthentic (Heidegger 2010, 39–41). The analysis begins with Dasein's "average everydayness" and calls its structures "existentials" to distinguish them from categories (Heidegger 2010, 41–42).
+	- Sections 16 and 18 turn to the world. When equipment breaks, goes missing, or gets in the way, it becomes conspicuous, obtrusive, or obstinate, and the referential context of the "workshop" that had been working unnoticed makes itself known (Heidegger 2010, 68–71). Things at hand are defined by relevance, a chain of in-order-to relations that ends in Dasein's "for-the-sake-of-which." The whole of these relations is significance, the structure of world (Heidegger 2010, 77–82).
+	- Section 29 treats attunement (Befindlichkeit). Dasein is always in a mood, and mood discloses its "thrownness," the bare fact "that it is and has to be" (Heidegger 2010, 126–127). Moods come neither from inside nor outside but disclose being-in-the-world as a whole and let things matter to us. Heidegger notes that the ontology of the affects has barely advanced since Aristotle's Rhetoric (Heidegger 2010, 128–131). Section 31 presents understanding not as cognition but as Dasein's potentiality-for-being, its projection upon possibilities (Heidegger 2010, 134–137).
+	- Section 38 describes falling prey to "the they" as a movement of temptation, tranquillization, alienation, and entanglement. Heidegger insists that this is an ontological structure, not a claim about human corruption (Heidegger 2010, 166–168). Section 39 asks what unifies existentiality, facticity, and falling prey, and it proposes Angst as the attunement that can disclose that whole (Heidegger 2010, 169–171). Section 41 concludes that Dasein's being is care: being-ahead-of-itself, already-in a world, and being-together-with innerworldly beings. Care is prior to theory and practice, and willing, wishing, urge, and predilection are grounded in it (Heidegger 2010, 178–182).
+
+- Direct Quote(s)
+	- 

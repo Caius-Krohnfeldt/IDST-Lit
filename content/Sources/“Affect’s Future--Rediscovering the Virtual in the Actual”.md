@@ -1,0 +1,36 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Grossberg]], Lawrence
+- Translator(s)
+	- 
+- Editor(s)
+	- [[Gregg]], Melissa; [[Seigworth]], Gregory J.
+- Container Book/Journal
+	- The Affect Theory Reader 
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2010]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Grossberg, Lawrence. “Affect’s Future: Rediscovering the Virtual in the Actual.” In The Affect Theory Reader, edited by Melissa Gregg and Gregory J. Seigworth. Duke University Press, 2010.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- This chapter is an interview, transcribed largely from a three-hour conversation in 2007. Seigworth and Gregg introduce Grossberg as the figure who made affect a "new frontier for politics" in cultural studies, through concepts like "mattering maps" and "affective alliances" (Grossberg 2010, 309–10). Grossberg says he first "met" affect in Raymond Williams's "structure of feeling" and Richard Hoggart's "what it feels like." Both, he felt, caught something that Althusserian theories of ideology and experience missed, and his early work on popular music sharpened that sense (310). Drawing on Deleuze and Guattari and Foucault, he describes three kinds of machinic assemblage. Coding machines inscribe difference, territorializing machines produce and map places, and stratifying machines constitute a historical ontology of "the sayable" and "the seeable." He locates affect among the territorializing machines (313–14). Asked whether affect "lets one off the hook," he says yes. Affect has become a "magical" catch-all for anything non-representational, and appealing to an ontology that "escapes" lets theorists skip the harder work. That work means specifying apparatuses of affect and tracing how the virtual is actualized on a plane of organization. "The world isn't rhizomatic," he insists, except as virtual (315). He distinguishes organizations of affect, such as will, attention, moods, and mattering maps. Emotion, he argues, is "the articulation of affect and ideology." He criticizes Massumi's work on terror alerts as a return to an "old-fashioned media-effects model" (316). He finds Williams's concept never quite theorized but valuable in its later attention to "the emergent" (317). He also describes a collaborative project to rethink Hall's "the popular" for the present conjuncture. In it, the popular becomes the site that constitutes the relationalities among practices (326–28). He ends by grounding his hope in the virtual: the world "did not have to be this way" (331–32).
+- Direct Quote(s)
+	- 

@@ -1,0 +1,26 @@
+- *[[§1 Defining Affect]]*
+	- Purpose
+		- 
+	- Sources
+		- [[Gregg]] and [[Seigworth]] [[“An Inventory of Shimmers”]]
+		- [[Doss]], [[“Affect”]]
+		- [[Massumi]], [[“The Autonomy of Affect”]]
+		- [[Smith]], [[“Postmodernism and the Affective Turn”]]
+		- [[Seigworth]] and [[Pedwell]], [[“Introduction--A Shimmer of Inventories”]]
+		- [[Tomkins]], *[[Affect, Imagery, Consciousness]]*
+		- [[Sedgwick]], and [[Frank]], [["Shame in the Cybernetic Fold--Reading Silvan Tomkins"]]
+	- Main Claim(s)
+		- [[Gregg]] and [[Seigworth]]
+			- There is no such thing as a singular and all encompassing "Affect Theory," and that is part of the point (even if we can find some heuristics in the fundamental texts {spinoza}). It also has to be made clear that Affect Theory is always interested in historical, contingent, and non-bifurcated experience.
+		- [[Doss]]
+			- Affect is always involved in the social and cultural; always related to it in some way. Art embodies the affective relations that culture has.
+		- [[Massumi]]
+			- There needs to be an affect-specific vocabulary which gets at its asignification, so that theoretical moves don't accidentally (or intentionally) make humanity the measure of all things. Instead, all culture must be defined as nature naturing (as opposed to nature being some sort of construct of culture).
+		- [[Smith]]
+			- Literary and cultural critics who say that postmodern literature is "affectively cold" fundamentally misunderstand what the affective turn in criticism was. It privileges individual and internal subjectivities, instead of world and social subjectivities. This critique is not only mistaken, but indicative of a "neoliberal" turn in literature, and literary criticism. 
+		- [[Seigworth]] and [[Pedwell]]
+			- There is no such thing as a singular and all encompassing "Affect Theory," and that is part of the point (even if we can find some heuristics in the fundamental texts {spinoza}). It also has to be made clear that Affect Theory is always interested in historical, contingent, and non-bifurcated experience.
+		- [[Tomkins]]
+			- Affect amplifies, and it the primary motivator of action (as opposed to drive theory and behaviorism). This system is innate, quantifiable, and identifiable across subjects.
+		- [[Sedgwick]], and [[Frank]]
+			- Sedgwick and Frank argue that current critical theory relies to heavily on antibiologism and binary relations. Tomkins affect theory complicates this. Affect intensifies the drives of the biological body, and layers the material and "immaterial". The binary of Materialism/Immaterialism, Mind/Body, Essentialist/Antiessentialist is too limiting. There are minds and bodies and being in between.

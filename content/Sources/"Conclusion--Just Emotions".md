@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Cultural Politics of Emotion
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2014]]
+- Original Date
+	- 
+- Publisher(s)
+	- Edinburgh University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 2nd Edition
+- Link(s)
+	- 
+- Chicago Endnote
+	- Ahmed, Sara. “Conclusion: Just Emotions.” In The Cultural Politics of Emotion, 2nd ed. Edinburgh University Press, 2014.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- In the conclusion to The Cultural Politics of Emotion, Ahmed asks how emotions relate to justice and injustice. She argues that justice cannot be read off good or bad feeling (Ahmed 2014). She opens with British tabloid coverage of Ali, an Iraqi boy injured in the 2003 war. His suffering becomes a symbol of the nation's hope, extending grief to one sentimentalized child while erasing other losses and placing the rescued other in a position of gratitude (Ahmed 2014). Turning bad feeling into good feeling (indifference into sympathy, shame into pride) can repeat the violence it claims to redress (Ahmed 2014).  Ahmed rejects two positions. Injustice cannot be reduced to suffering, since that would let violence be justified whenever someone is said not to hurt or to be "happy" (Ahmed 2014). Justice also cannot be a matter of virtuous character or fellow-feeling, as in Solomon's account, because that personalizes and privatizes social relations (Ahmed 2014). Yet she refuses the Kantian removal of emotion from judgment, since that tradition has cast women and racialized others as ruled by feeling (Ahmed 2014). Emotions are effects rather than grounds, and they involve investments in social norms (Ahmed 2014). She cites Berlant's critique of happiness promised as a return on investment in the nation (Ahmed 2014).  She then examines restorative justice. While sympathetic to its attention to personal harm, she criticizes its reliance on remorse and forgiveness as transparent signs, and Braithwaite's "reintegrative shaming," which idealizes the family and the social bond (Ahmed 2014). Justice may include others' right not to enter into relationships at all (Ahmed 2014). Testimonies of colonial and racial injustice are themselves forms of recognition, and feeling better matters even though it is not the measure of justice (Ahmed 2014). She closes with the image of a "good scar" that sticks out and keeps the injury visible, and with the claim that emotions are the "flesh" of time (Ahmed 2014). "Just emotions" work with wounds rather than covering them over (Ahmed 2014).
+- Direct Quote(s)
+	- 

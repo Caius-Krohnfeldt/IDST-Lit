@@ -1,0 +1,38 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Promise of Happiness
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2010]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Ahmed, Sara. “Introduction: Why Happiness, Why Now?” In The Promise of Happiness. Duke University Press, 2010.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Ahmed's introduction sets out the book's guiding question as "what does happiness do?" rather than "what is happiness?" and declines to offer a definition or a recipe for happiness (Ahmed 2010, 2). She treats happiness as a form of world making that associates some life choices with the good and not others. She credits feminist, black, and queer critiques of the "happy housewife," the "happy slave," and heterosexual "domestic bliss" with showing how happiness redescribes social norms as social goods (Ahmed 2010, 2).  
+The book responds to what Ahmed calls a "happiness turn": the growth of a happiness industry, national well-being measures, and the "new science of happiness" in economics and psychology (Ahmed 2010, 3–5). She traces this science to Bentham's utilitarianism and Layard's claim that happiness is feeling good (Ahmed 2010, 4–5). Its reliance on self-reports presumes that feelings are transparent (Ahmed 2010, 5). It is also performative, because correlations such as the one between marriage and happiness are read as causes and become recommendations, so happiness becomes a duty (Ahmed 2010, 6–7). Positive psychology makes happiness an individual responsibility and a form of capital (Ahmed 2010, 8–10). The "happiness profile" it describes resembles the face of privilege (Ahmed 2010, 11). Ahmed also rejects calls to return to classical eudaimonia, since Aristotle's good life depended on others' labor (Ahmed 2010, 12–13).  
+Methodologically, she suspends belief that happiness is good and "follows the word happiness around" to see where it goes and what it gathers (Ahmed 2010, 13–14). She reads philosophy as a "happiness archive" and builds "unhappy archives" from feminist, queer, antiracist, and revolutionary texts. These archives are organized around figures such as the feminist killjoy, the unhappy queer, and the melancholic migrant (Ahmed 2010, 15–18). Noting the history of "unhappy" and "wretch," she aims to give the killjoy back her voice, framing killing joy as making room for life and possibility (Ahmed 2010, 17, 20).
+- Direct Quote(s)
+	- 

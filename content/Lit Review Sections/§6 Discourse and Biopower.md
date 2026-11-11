@@ -1,0 +1,10 @@
+- *[[§6 Discourse and Biopower]]*
+	- Purpose
+		- 
+	- Sources
+		- [[Foucault]], *[[The History of Sexuality]]*
+		- [[Foucault]], *[[Madness and Civilization]]*
+		- [[Foucault]], *[[The Birth of the Clinic]]*
+		- [[Foucault]], *[[Nietzsche, Genealogy, History]]*
+	- Main Claim(s)
+		- 

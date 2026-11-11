@@ -1,0 +1,7 @@
+- *[[§3 Tracing Affect Part 2--Spinoza]]* (Enlightenment Era)
+	- Purpose
+		- 
+	- Sources
+		- [[Spinoza]], *[[Ethics]]*
+	- Main Claim(s)
+		- 

@@ -1,0 +1,37 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[McCormack]], Derek
+- Translator(s)
+	- 
+- Editor(s)
+	- Seigworth, Gregory J.; Pedwell, Carolyn
+- Container Book/Journal
+	- The Affect Theory Reader 2
+- Form/Type
+	- Book
+- Publication Year
+	- [[2023]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- McCormack, Derek. “The Elements of Affect Theories.” In The Affect Theory Reader 2, edited by Gregory J. Seigworth and Carolyn Pedwell. Duke University Press, 2023.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- McCormack argues that affect theories must attend to the elements, such as air, water, weather, and the materials of media. In his account the elements are not just a vocabulary for affective life but forces that take part in it (McCormack 2023, 63–65, 70). He notes that the elements were barely present in the first Affect Theory Reader. In the years since, fires, heat waves, floods, and air pollution have become more palpable in affective worlds (McCormack 2023, 63–64). He uses the elements to bracket the "Anthropocene," which he sees as a homogenizing, Eurocentric abstraction (McCormack 2023, 64–65). The first section revisits Raymond Williams's definition of "structures of feeling" as "social experiences in solution." McCormack argues that Williams's chemical and meteorological terms, solution and precipitation, fit better than they first appear, and that they point to the challenge of sensing the present as it emerges (McCormack 2023, 66–69). The second section argues that the elements are influences as well as analogies, shaping both the objects of affect theory and the conditions in which theory is written (McCormack 2023, 69–70). He warns against both romantic affirmations of elemental feeling and a disembodied minimizing of elemental influence. He also attends to Indigenous elemental knowledges, Melody Jue's "milieu-specific analysis," and breathing as exposure to violence and toxicity (McCormack 2023, 70–73). Extending Rebecca Coleman, he shows that the elements are also infrastructural, since digital "infrastructures of feeling" depend on extracted and engineered elemental materials (McCormack 2023, 73–75). The third section uses Jenny Offill's novel Weather, along with work by Neimanis, Rankine, and Sharpe, to argue that "weathering" blurs weather and climate. Bodies register climate change in uneven ways, and Sharpe names the climate itself as anti-Black (McCormack 2023, 75–79). McCormack concludes by extending Berlant's account of affect as "the impact of the world on subjects" into an elemental empiricism "in solution" (McCormack 2023, 79–80). Because many elemental processes go unfelt without technical devices, he argues, affect theory needs concepts for influences that operate below the threshold of human sensing (McCormack 2023, 80–81).
+
+- Direct Quote(s)
+	- 

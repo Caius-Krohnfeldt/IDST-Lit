@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Foucault]], Michel
+- Translator(s)
+	- Howard, Richard
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 1965
+- Original Date
+	- 1961
+- Publisher(s)
+	- Vintage Books
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Foucault, Michel. Madness and Civilization. Translated by Richard Howard. Vintage Books, 1965.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Foucault’s first major book, originally his doctoral thesis, traces how European culture constituted madness as an object of exclusion, knowledge, and treatment between the Renaissance and the early nineteenth century. He argues that in the Renaissance, madness remained a part of cultural and imaginative life, appearing in literature, painting, and the figure of the ship of fools. A rupture came in the mid-seventeenth century with what he calls the Great Confinement, symbolized by the founding of the Hôpital Général in Paris in 1656. Madness was confined alongside the poor, the idle, and the morally deviant, and came to be understood as unreason, the inverse of reason, instead of a form of truth or error.  Foucault then follows the eighteenth-century reform associated with Pinel in France and Tuke in England. He rejects the standard narrative of humane liberation, arguing that the asylum replaced physical constraint with moral discipline, internalized guilt, and the authority of the physician. Madness became a mental illness and the object of a medical and psychological discourse. Psychiatry and, by extension, psychoanalysis inherit this structure rather than escaping it. Foucault also points to Nietzsche, Artaud, and Van Gogh as figures whose work resists the silencing of unreason.  The book matters to a history of affect theory for its argument that categories of mind and emotion are historically produced, and for its method of tracing how knowledge and institutional power shape what counts as normal. It has been criticized on historical grounds, notably the scale and meaning of the Great Confinement, and philosophically by Derrida’s 1963 essay “Cogito and the History of Madness,” to which Foucault later replied.
+- Direct Quote(s)
+	- 

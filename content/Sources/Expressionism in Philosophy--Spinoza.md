@@ -1,0 +1,38 @@
+- Epoch
+	- [[Late Modern]]
+- Author(s)
+	- [[Deleuze]], Gilles
+- Translator(s)
+	- [[Joughin]], Martin
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 1990
+- Original Date
+	- [[1968]]
+- Publisher(s)
+	- Zone Books
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Deleuze]], Gilles. [[Expressionism in Philosophy--Spinoza]]. Translated by Martin [[Joughin]]. Zone Books, 1990.
+- Section/Chapters for use
+	- XIV What Can a Body Do? pgs. 217-235
+- "Abstract"
+	- Deleuze reconstructs Spinoza's theory of finite modes around the question "What can a body do?" He sets out a second "modal triad": an essence as a degree of power, a capacity to be affected in which that essence is expressed, and the affections that exercise this capacity at each moment (Deleuze 1990, 217). For Spinoza, asking about a body's structure and asking what it can do become the same question (Deleuze 1990, 217–218). Unlike God, who causes all his affections, finite modes are always affected by external bodies. Their affections begin, and tend to remain, passions (Deleuze 1990, 218–219).
+	- Deleuze then links affection to knowledge. Our first ideas are inadequate images of how our body is affected, and the feelings (affectus) that follow are passive. Active feelings would follow only from adequate ideas of which we are the cause (Deleuze 1990, 219–221). The "properly ethical question" is therefore how we can become active (Deleuze 1990, 221). Within a given capacity to be affected, the power of acting and the power of suffering vary in inverse proportion (Deleuze 1990, 222). At a deeper level, however, the power of suffering expresses nothing positive; it is our impotence, the lowest degree of our power of acting (Deleuze 1990, 223–224). Since we begin life cut off from what we can do, we cannot know a body's capacities in advance. "We do not even know of what a body is capable," and we learn only by concretely trying to become active (Deleuze 1990, 226).
+	- The second half compares Spinoza and Leibniz, who both join an anti-Cartesian "naturalism" that gives nature back its own forces of acting and suffering, through levels of mechanism, force, and essence (Deleuze 1990, 227–229). They differ on conatus. For Spinoza it is not a tendency of essence toward existence but the essence of an existing mode, its effort to preserve its relation and its power to be affected (Deleuze 1990, 230–231). Where Leibniz grounds expression in finality and harmony, Spinoza grounds it in a purely immanent causality that excludes all finality (Deleuze 1990, 232–234).
+- Direct Quote(s)
+	- 

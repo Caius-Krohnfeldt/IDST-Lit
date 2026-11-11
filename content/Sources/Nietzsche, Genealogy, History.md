@@ -1,0 +1,39 @@
+- Epoch
+	- [[Late Modern]]
+- Author(s)
+	- [[Foucault]], Michel
+- Translator(s)
+	- [[Bouchard]], Donald; [[Simon]], Sherry
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Foucault Reader
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- 1977
+- Original Date
+	- [[1972]]
+- Publisher(s)
+	- Pantheon
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 76-101
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Foucault, Michel. “Nietzsche, Genealogy, History.” In The Foucault Reader, translated by Donald Bouchard and Sherry Simon. Pantheon, 1977.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Foucault reads Nietzsche to define genealogy as a historical method opposed to the search for origins. Genealogy is "gray, meticulous, and patiently documentary." It records the singularity of events in places thought to have no history, such as sentiments, love, conscience, and instincts (Foucault 1984, 76). Foucault distinguishes Nietzsche's uses of Ursprung (origin) from Herkunft (descent) and Entstehung (emergence) (Foucault 1984, 77–78). The search for Ursprung assumes a pure essence at the beginning of things. Genealogy finds instead that things have no essence or that their essence was fabricated piecemeal, and that at the beginning lies "dissension" and "disparity" rather than identity (Foucault 1984, 78–79).
+	- Herkunft follows descent not to establish continuity but to recover the accidents, deviations, and errors that produced what we value. It disturbs what was thought immobile and fragments what was thought unified (Foucault 1984, 80–82). Descent attaches to the body. The body is "the inscribed surface of events," and genealogy is situated "within the articulation of the body and history," exposing a body "totally imprinted by history" (Foucault 1984, 82–83). Entstehung names emergence through a particular play of forces. Humanity does not progress toward universal law but "proceeds from domination to domination," and rules are empty forms that can be seized and turned against those who made them (Foucault 1984, 83–86). History is thus a series of violent interpretations (Foucault 1984, 86).
+	- Foucault then contrasts traditional history with Nietzsche's wirkliche Historie, or "effective" history. Traditional history assumes a suprahistorical vantage point and constant things. Effective history admits no constants, not even the body, and introduces discontinuity into our very being, because "knowledge is not made for understanding; it is made for cutting" (Foucault 1984, 86–88). It attends to what is closest, such as the body, diet, and energies, and it openly affirms its own perspective rather than claiming objectivity (Foucault 1984, 89–90). The essay ends with three uses of historical sense that turn Nietzsche's earlier modes of history against themselves. These are parody against reality, dissociation against identity, and the sacrifice of the knowing subject against truth (Foucault 1984, 93–97).
+
+- Direct Quote(s)
+	- 

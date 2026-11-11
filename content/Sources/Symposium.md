@@ -1,0 +1,40 @@
+- Epoch
+	- [[Ancient]]
+- Author(s)
+	- [[Plato]]
+- Translator(s)
+	- [[Jowett]], Benjamin
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 1999
+- Original Date
+	- ~[[370]]BCE
+- Publisher(s)
+	- Project Gutenberg
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Plato]]. [[Symposium]]. Translated by Benjamin [[Jowett]]. Project Gutenberg, 1999. https://www.gutenberg.org/cache/epub/1600/pg1600-images.html.
+- Section/Chapters for use
+	- Socrates' Diotima Speech
+- "Abstract"
+	- In the last of the Symposium's speeches in praise of Eros, Socrates recounts what the priestess Diotima of Mantinea taught him about love (Plato 1999, 201d). Diotima first corrects the earlier speakers. Love is neither beautiful nor good but desires the beauty and goodness it lacks, so Eros cannot be a god (Plato 1999, 201e–202d). He is instead a daimon, a spirit between mortal and divine who carries messages between gods and humans (Plato 1999, 202d–203a). Her myth makes Eros the child of Resource (Poros) and Poverty (Penia). He is perpetually needy yet resourceful, and he stands between ignorance and wisdom in the way the philosopher does (Plato 1999, 203b–204b). Diotima then defines love's aim. Everyone wants good things to be their own, since possessing good things is what it means to be happy, and love is therefore the desire to possess the good forever (Plato 1999, 204e–206a). Because mortals cannot possess anything forever, love works through "giving birth in beauty," whether in body or in soul (Plato 1999, 206b–e). Mortal nature seeks immortality by leaving behind something new in place of the old. Those pregnant in body have children, while those pregnant in soul produce wisdom and virtue, as Homer did with poetry and Solon and Lycurgus did with laws (Plato 1999, 207d–209e). The speech culminates in the "higher mysteries," often called the ladder of love. Guided correctly, the lover moves from one beautiful body to the beauty of all bodies, then to beautiful souls, practices and laws, and branches of knowledge (Plato 1999, 210a–d). At the end the lover suddenly glimpses Beauty itself, eternal, unchanging, and unmixed with anything mortal (Plato 1999, 210e–211b). Diotima calls this the life most worth living for a human being. Only one who beholds Beauty itself can give birth to true virtue rather than images of virtue, and such a person comes as close to immortality as a human can (Plato 1999, 211d–212a). Love thus runs from bodily desire to philosophical contemplation.
+- Main Claim(s)
+	- Love is in between the divine and the immortal, a mediator who spans chasms. 
+	- There is no unity to anything. Everything is in a perpetual process of change. 
+- Direct Quote(s)
+	-  'What then is Love?' I asked; 'Is he mortal?' 'No.' 'What then?' 'As in the former instance, he is neither mortal nor immortal, but in a mean between the two.' 'What is he, Diotima?' 'He is a great spirit (daimon), and like all spirits he is intermediate between the divine and the mortal.' 'And what,' I said, 'is his power?' 'He interprets,' she replied, 'between gods and men, conveying and taking across to the gods the prayers and sacrifices of men, and to men the commands and replies of the gods; he is the mediator who spans the chasm which divides them, and therefore in him all is bound together, and through him the arts of the prophet and the priest, their sacrifices and mysteries and charms, and all prophecy and incantation, find their way.
+	- Nay even in the life of the same individual there is succession and not absolute unity: a man is called the same, and yet in the short interval which elapses between youth and age, and in which every animal is said to have life and identity, he is undergoing a perpetual process of loss and reparation—hair, flesh, bones, blood, and the whole body are always changing. Which is true not only of the body, but also of the soul, whose habits, tempers, opinions, desires, pleasures, pains, fears, never remain the same in any one of us, but are always coming and going; and equally true of knowledge, and what is still more surprising to us mortals, not only do the sciences in general spring up and decay, so that in respect of them we are never the same; but each of them individually experiences a like change. For what is implied in the word "recollection," but the departure of knowledge, which is ever being forgotten, and is renewed and preserved by recollection, and appears to be the same although in reality new, according to that law of succession by which all mortal things are preserved, not absolutely the same, but by substitution, the old worn-out mortality leaving another new and similar existence behind—unlike the divine, which is always the same and not another? And in this way, Socrates, the mortal body, or mortal anything, partakes of immortality; but the immortal in another way. Marvel not then at the love which all men have of their offspring; for that universal love and interest is for the sake of immortality.'

@@ -1,0 +1,38 @@
+- Epoch/Paradigm
+	- [[Ancient]]
+- Author(s)
+	- [[Aristotle]]
+- Translator(s)
+	- [[Smith, J.A]].
+- Editor(s)
+	- [[McKeon]], Richard
+- Container Book/Journal
+	- The Basic Works of Aristotle
+- Form/Type
+	- Book Section
+- Publication Year
+	- [[2001]]
+- Original Date
+	- ~[[350BCE]]
+- Publisher(s)
+	- Modern Library Classics
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Aristotle]]. “De Anima” In The Basic Works of Aristotle, edited by Richard McKeon, translated by J. A. Smith. Modern Library Classics, 2001.
+- Section/Chapters for use
+	- I.1, II.2,3, III.9-11
+- "Abstract"
+	- De Anima gives the psychological and physiological framework within which Aristotle’s remarks on emotion make sense. Its most important passage for affect theory is I.1 (403a3-b19), where he argues that the affections of the soul (anger, courage, appetite, sensation generally) are not separate from the body, and illustrates this with anger. The natural philosopher would define anger as a boiling of the blood or heat around the heart, while the dialectician defines it as a desire for retaliation (403a29-b2); the former describes the matter and the latter the form, and a full account requires both. This refusal to choose between a physiological and a meaning-based explanation is the passage’s lasting interest for debates between biological and constructionist accounts of emotion. Elsewhere, sensation is linked to pleasure and pain, since where there is sensation there is also pleasure and pain and therefore desire (II.2, 413b22-24). III.7 (431a8-17) says that perceiving something as pleasant or painful is like affirming or denying, and is accompanied by pursuit or avoidance. The account of phantasia, imagination, in III.3 (427b14-429a9) explains how an emotion can be directed at what is absent, and so underlies the cognitive reading of emotion in the Rhetoric. In III.9-11 (432a15-434a21), desire (orexis) is the faculty that moves the animal, working with perception and imagination, and III.10 (433a9-b30) sets out how reason and desire together produce action.
+- Main Claims
+	- All affections of the soul require a body. The body is what allows the soul to be affected. 
+- Direct Quote(s)
+	- A further problem presented by the affections of soul is this: are they all affections of the complex of body and soul, or is there any one among them peculiar to the soul by itself? To determine this is indispensable but difficult. If we consider the majority of them, there seems to be no case in which the soul can act or be acted upon without involving the body; e.g. anger, courage, appetite, and sensation generally. Thinking seems the most probable exception; but if this too proves to be a form of imagination or to be impossible without imagination, it too requires a body as a condition of its existence. If there is any way of acting or being acted upon proper to soul, soul will be capable of separate existence; if there is none, its separate existence is impossible. In the latter case, it will be like what is straight, which has many properties arising from the straightness in it, e.g. that of touching a bronze sphere at a point, though straightness divorced from the other constituents of the straight thing cannot touch it in this way; it cannot be so divorced at all, since it is always found in a body. It therefore seems that all the affections of soul involve a body-passion, gentleness, fear, pity, courage, joy, loving, and hating; in all these there is a concurrent affection of the body. In support of this we may point to the fact that, while sometimes on the occasion of violent and striking occurrences there is no excitement or fear felt, on others faint and feeble stimulations produce these emotions, viz. when the body is already in a state of tension resembling its condition when we are angry. Here is a still clearer case: in the absence of any external cause of terror we find ourselves experiencing the feelings of a man in terror. From all this it is obvious that the affections of soul are enmattered formulable essences. (I.1)

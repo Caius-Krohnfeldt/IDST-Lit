@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Cultural Politics of Emotion
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2014]]
+- Original Date
+	- 
+- Publisher(s)
+	- Edinburgh University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 2nd Edition
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Ahmed]], Sara. [["Introduction--Feel Your Way"]] In The Cultural Politics of Emotion, 2nd ed. Edinburgh University Press, [[2014]].
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- In the introduction to The Cultural Politics of Emotion, Ahmed replaces the question of what emotions are with the question of what emotions do (Ahmed 2014). She opens with a British National Front poster that calls Britain a "soft touch" for asylum seekers. She reads it as a text that lines up a white national "you" against others by naming those others as the source of injury (Ahmed 2014). The soft/hard metaphor shows how emotions become attributes of collectives, and how emotionality has been coded as feminine, primitive, and beneath reason in ways that secure social hierarchy (Ahmed 2014).  Ahmed then sets her account against two models. The "inside out" model, central to psychology, treats feelings as private states that are expressed outward. The "outside in" model, found in Durkheim and crowd psychology, treats feeling as something the social imposes on the individual (Ahmed 2014). Both assume the very inside/outside distinction they should explain. Her alternative is that emotions produce the surfaces and boundaries that let the individual and the social be marked off as objects in the first place (Ahmed 2014).  Drawing on Descartes and phenomenology, she argues that emotions are both "about" objects and shaped by contact with them. In her example of a child who runs from a bear, the fear is located neither in the child nor in the bear but in a contact shaped by earlier histories (Ahmed 2014). She uses Hume's word "impression" to avoid separating sensation, emotion, and thought (Ahmed 2014). Instead of emotional contagion, she proposes that the objects of emotion circulate and become "sticky," gathering affective value through repetition. She builds this model from psychoanalysis and Marx (Ahmed 2014). Her method is close reading of public texts, with attention to metaphor and metonymy, across three cases: reconciliation in Australia, responses to terrorism, and asylum in the UK (Ahmed 2014). The introduction supplies the book's core vocabulary of affective economies, stickiness, and the performativity of naming emotions.
+- Direct Quote(s)
+	- 

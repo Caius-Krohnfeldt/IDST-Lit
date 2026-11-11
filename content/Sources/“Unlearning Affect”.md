@@ -1,0 +1,36 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Hamner]], M. Gail
+- Translator(s)
+	- 
+- Editor(s)
+	- [[Seigworth]], Gregory J.; [[Pedwell]], Carolyn
+- Container Book/Journal
+	- The Affect Theory Reader 2
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2023]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Hamner, M. Gail. “Unlearning Affect.” In The Affect Theory Reader 2, edited by Gregory J. Seigworth and Carolyn Pedwell. Duke University Press, 2023.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Hamner starts from the US impasse over white supremacy, often framed as "cancel" or "consequence" culture. She argues that Americans "scream past each other" because they "feel past each other," in ways rooted in nonconscious habits of thought and gesture (Hamner 2023, 233–34). Instead of confession or excommunication, she asks readers to "unlearn our affects." She traces a genealogy of affect as "the logic of (racial) enclosure writ as (universal) possibility" (234). Even counter-Enlightenment thinkers attuned to affect sustain what Ashley Cake calls the "Enwhitenment" (234). In Herder, affect follows a logic of replacement. Cries of feeling give way to words, and cultures are ranked so that European whiteness ends up at the "pinnacle of civilization" (235–37). In Hegel's "sense certainty," affect follows a logic of mastery: the senses are negated and subordinated to knowledge, while Africans are cast as stuck in "natural consciousness" (237–39). In Peirce, it is a logic of enfolding. Affect is Firstness, enfolded into Secondness and into habit, or Thirdness. Without a theory of power, though, pragmaticism ends up rewarding the socially dominant (239–41). Hamner joins these readings to Denise Ferreira da Silva's split between the "transparent I" and "affectable others," and to Sylvia Wynter's "overrepresentation of Man." Both show that simply turning to affect "will not sidestep Enwhitenment" (241–44). Critique alone cannot change habits, so she turns to Silvan Tomkins's script theory. Scripts are nonconscious, time-laden protocols that resist change. A person "does not capture affect so much as affect captures her" (245–47). Ideology scripts, felt as positive belonging, combine with paranoid nuclear scripts and media's "auxiliary augmentation" to "draw the lines of cultural impasse" (248–49). Since "affect is to history as grammar is to semantics," unlearning means chipping away at that grammar (247). This is slow, pedagogical work. Hamner, who writes as a white woman, places the onus for it on whiteness (250–52).
+- Direct Quote(s)
+	- 

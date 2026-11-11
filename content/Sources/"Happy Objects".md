@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Promise of Happiness
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2010]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Ahmed, Sara. “Happy Objects.” In The Promise of Happiness. Duke University Press, 2010.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- In this theoretical core chapter, Ahmed asks how objects become "happy," and she argues that happiness turns us toward objects that already circulate as social goods (Ahmed 2010, 21). Happiness involves affect, intentionality, and evaluation (Ahmed 2010, 21). She returns to the root hap, meaning chance, to refocus attention on contingency (Ahmed 2010, 22). Drawing on Locke's man who loves grapes, along with Spinoza and Descartes, she argues that objects acquire value through contact with bodies, and that happiness shapes our "near sphere" of liked things (Ahmed 2010, 22–24).  Following Aristotle's account of happiness as the end of all ends, she argues that other things become "happiness means" or pointers (Ahmed 2010, 26). Using Nietzsche's point that causes are attributed after the fact, she shows that objects can become "happiness-causes" before we meet them, so the judgment that something is good precedes and directs the encounter (Ahmed 2010, 27–28). Happiness thus takes the form of a promise: do this or have that and happiness will follow (Ahmed 2010, 29). That promise is sustained by being deferred, which makes the happy object a "gap-filler" (Ahmed 2010, 32).  Drawing on Bourdieu, Elias, and Aristotle on habituation, Ahmed shows that taste and "good habits" are class-marked orientations toward the right objects (Ahmed 2010, 33–37). She questions models of affective contagion in Hume, Gibbs, Sedgwick, and Brennan. When happy objects are passed around, she argues, what passes is the promise of the feeling, not the feeling itself, and how one arrives in a room shapes what one picks up (Ahmed 2010, 39–41, 44). People who do not feel the expected pleasure, such as the bride who is not happy on her wedding day, become "affect aliens" (Ahmed 2010, 41–42). Through Laurie Colwin's novel Family Happiness, she reads the family as a happy object reproduced through tables, rituals, and encouragement. The one who deviates becomes the affect alien who "kills" the family's joy (Ahmed 2010, 45–49).
+- Direct Quote(s)
+	- 

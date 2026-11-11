@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Promise of Happiness
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2010]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Ahmed, Sara. “Conclusion: Happiness, Ethics, Possibility.” In The Promise of Happiness. Duke University Press, 2010.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Ahmed's conclusion examines how happiness works as a "double telos," both the end of life and the end of the good life (Ahmed 2010, 199). She asks what follows from its close tie to ethics. She describes happiness as a "hopeful performative" and analyzes "I just want you to be happy" as a "perverse performative" that produces the unhappiness it claims not to want (Ahmed 2010, 200–201). Happiness works like the word "because": it stops conversations about why we want what we want and serves as a mobile defense for any argument (Ahmed 2010, 203–4).  She offers a "modest genealogy of happiness" through Nietzsche's Genealogy of Morals. Nietzsche admires the aristocratic declaration "we the happy ones" as creative, but Ahmed argues that it simply shows that the fortunate describe themselves as happy (Ahmed 2010, 205–6). One history of happiness, she suggests, is the removal of the hap, or fortune, from happiness, as in Seneca and Adam Smith (Ahmed 2010, 207–8). She then challenges the alignment of happiness with activity and unhappiness with passivity, arguing that suffering can be a kind of activity (Ahmed 2010, 208–10).  Through Deleuze's reading of Spinoza on good and bad encounters, Ahmed argues that "agreement" can mean submission. Happiness can carry an immanent coercion, and the killjoy is the one who gets in the way of organic solidarity (Ahmed 2010, 210–13). She extends her critique to an "affirmative turn" in Massumi and Braidotti that privileges joy. She argues that it treats bad feelings as backward obstacles and lets histories of injustice disappear (Ahmed 2010, 213–17). Bad feelings, she counters, are creative responses to unfinished histories, and she proposes studying "feelings of structure" (Ahmed 2010, 216–17). Finally, she imagines a "hap-pier happiness" understood as possibility rather than duty, drawing on Kierkegaard and Nancy (Ahmed 2010, 217–19). Through the film Happy-Go-Lucky, she values silly, misdirected happiness and argues for a politics of the hap (Ahmed 2010, 220–23).
+- Direct Quote(s)
+	- 

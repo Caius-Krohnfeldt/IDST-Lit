@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Promise of Happiness
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2010]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Ahmed, Sara. “Happy Futures.” In The Promise of Happiness. Duke University Press, 2010.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Ahmed examines happiness as a relation to the future and asks how a redistribution of affect can support revolutionary consciousness (Ahmed 2010, 160–62). She takes seriously Lee Edelman's refusal of reproductive futurism. She notes, however, that affirming negation is still an affirmation, and she proposes reading how positive and negative affects are distributed instead (Ahmed 2010, 161–62). Through Marx on alienation and Fanon's The Wretched of the Earth, she argues that revolutionary consciousness involves a "double alienation": becoming alienated from one's alienation and recognizing that suffering has a cause (Ahmed 2010, 166–68). The revolutionary is an affect alien who is stressed rather than in "flow" (Ahmed 2010, 168–69).  The chapter's main text is the film Children of Men. Its protagonist Theo is a disaffected former activist whose pessimism defends against grief for his lost child (Ahmed 2010, 170–72, 178). Comparing Schopenhauer and Leibniz, Ahmed argues that optimism and pessimism are not simply outlooks. They are evaluative, future-oriented readings of objects, and pessimism can work as a survival tactic that prepares for disappointment (Ahmed 2010, 173–78). Hope, she argues, is bound up with anxiety, and the film shows a future that can be lost (Ahmed 2010, 181–84). She ultimately reads the film as Theo's conversion to care, rewarded with paternity, and as relying on a white man saving a pregnant black refugee woman (Ahmed 2010, 185–87). She also reads The Island, a "hope dystopia" in which hope and happiness work as technologies of control (Ahmed 2010, 187–89, 192).  Turning to "happiness dystopias" such as Brave New World, The Joy Makers, and Le Guin's "The Ones Who Walk Away from Omelas," Ahmed argues for a "freedom to be unhappy." This means the freedom to be affected by unhappiness and to deviate from happiness's paths (Ahmed 2010, 192–95). Revealing the causes of unhappiness makes one a cause of unhappiness, so challenging happiness must be a collective project (Ahmed 2010, 196). She closes by imagining "pointless emotions" and a future of the "perhaps" (Ahmed 2010, 198).
+- Direct Quote(s)
+	- 

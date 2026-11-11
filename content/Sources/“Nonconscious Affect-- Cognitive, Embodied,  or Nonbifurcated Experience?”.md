@@ -1,0 +1,38 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Sampson]], Tony
+- Translator(s)
+	- 
+- Editor(s)
+	- [[Seigworth]], Gregory J.; [[Pedwell]], Carolyn
+- Container Book/Journal
+	- The Affect Theory Reader 2
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2023]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Sampson, Tony. “Nonconscious Affect: Cognitive, Embodied, or Nonbifurcated Experience?” In The Affect Theory Reader 2, edited by Gregory J. Seigworth and Carolyn Pedwell. Duke University Press, 2023.
+- Section/Chapters for use
+	- Full Text
+- "Abstract"
+	- Sampson argues that the old mind/body and conscious/unconscious divides have been replaced by a new relation: a diminished consciousness governed by the "imperceptible" nonconscious, now mainstream in the brain sciences (Sampson 2023, 295). He traces two posthumanist strands that take up this nonconscious. One is a new materialist affect theory. The other is N. Katherine Hayles's "cognitive nonconscious," from Unthought (296–97). Both draw on Damasio, Libet, and LeDoux. New materialism treats consciousness as a "backdated illusion" and extends affect to a vibrant world of human and nonhuman matter (298). Hayles uses Damasio's protoself to describe a "leveling up" toward the autobiographical self. She extends cognition to plants and technical systems but draws a firm line between "cognizers" and "noncognizers," such as stones and tsunamis (299–300). Hayles charges that new materialism leaves out consciousness. Sampson calls that charge "somewhat selective," noting that affect theorists treat cognition as the "capture and closure" of affect rather than ignoring it (301–2). He also faults Hayles's "cognitive assemblages." They keep engineering metaphors of information channels and levels, and they contrast with affective contagion, which moves across contexts (304–6). In his view, she swaps her critique of new materialism's "imprecise forces" for an "equally loose application of information levels" (308). By removing noncognizers from the assemblage, she divides mind from matter, and matter "becomes inert and deadened." Yet both strands still treat the nonconscious as a precursor to cognition (308). Sampson proposes a third, Whiteheadian path built on the refusal to bifurcate mind and matter. Here the two become analyzable only "together in the temporal thickness of events," and human perception is a "half-awake" sleepwalk (309). This route escapes phenomenology's "subject-predicate-object" trap and allows that "objects can experience subjects," as with smart sensors (310–11). He concludes that this view "puts the event in affect theory." Events are experienced "as affects outside of thought," which opens a more-than-human account of experience (312).
+- Main Claim(s)
+	- 
+- Direct Quote(s)
+	- 

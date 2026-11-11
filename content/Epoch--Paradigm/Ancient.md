@@ -1,0 +1,3 @@
+- [[Plato]], *[[Republic]]*
+- [[Plato]], *[[Symposium]]*
+- [[Plato]], *[[Phaedrus]]*

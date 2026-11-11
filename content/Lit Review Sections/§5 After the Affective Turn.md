@@ -1,0 +1,19 @@
+- *[[§5 After the Affective Turn]]*
+	- Purpose
+		- 
+	- Sources
+		- [[Ahmed]], [["Introduction--Feel Your Way"]]
+		- [[Ahmed]], [["The Contingency of Pain"]]
+		- [[Ahmed]], [["The Affective Politics of Fear"]]
+		- [[Ahmed]], [["Conclusion--Just Emotions"]]
+		- [[Ahmed]], [["Introduction--Why Happiness, Why Now?"]]
+		- [[Ahmed]], [["Happy Objects"]]
+		- [[Ahmed]], [["Happy Futures"]]
+		- [[Ahmed]], [["Conclusion--Happiness, Ethics, Possibility"]]
+		- [[McCormack]], [[“The Elements of Affect Theories”]]
+		- [[Grossberg]], [[“Affect’s Future--Rediscovering the Virtual in the Actual”]]
+		- [[Hamner]], [[“Unlearning Affect”]]
+		- [[Sampson]], [[“Nonconscious Affect-- Cognitive, Embodied,  or Nonbifurcated Experience?”]]
+		- [[Clough]], [[“The Affective Turn--Political Economy, Biomedia, and Bodies”]]
+	- Main Claim(s)
+		- 

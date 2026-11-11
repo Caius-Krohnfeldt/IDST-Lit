@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- 
+- Author(s)
+	- 
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- 
+- Publication Year
+	- 
+- Original Date
+	- 
+- Publisher(s)
+	- 
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- 
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- 
+- Direct Quote(s)
+	- 

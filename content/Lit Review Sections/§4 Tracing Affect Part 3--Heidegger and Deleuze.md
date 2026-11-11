@@ -1,0 +1,8 @@
+- *[[§4 Tracing Affect Part 3--Heidegger and Deleuze]] (19th/20th Century)*
+	- Purpose
+		- 
+	- Sources
+		- [[Heidegger]], *[[Being and Time]]*
+		- [[Deleuze]], *[[Expressionism in Philosophy--Spinoza]]*
+	- Main Claim(s)
+		- 

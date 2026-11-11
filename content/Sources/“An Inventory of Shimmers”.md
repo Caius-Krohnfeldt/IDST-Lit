@@ -1,0 +1,46 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Gregg]], Melissa; [[Seigworth]], Gregory J.
+- Translator(s)
+	- 
+- Editor(s)
+	- [[Gregg]], Melissa; [[Seigworth]], Gregory J.
+- Container Book/Journal
+	- The Affect Theory Reader
+- Form/Type
+	-  Book Chapter
+- Publication Year
+	- [[2010]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Gregg]], Melissa, and GregorySeigworth.[[“An Inventory of Shimmers”]] In The Affect Theory Reader, edited by Melissa [[Gregg]] and Gregory J. [[Seigworth]]. Duke University Press, 2010.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- In their introduction to The Affect Theory Reader, Seigworth and Gregg define affect as arising "in the midst of in-between-ness," in a body's capacities to act and be acted upon (Seigworth and Gregg 2010, 1). Affect consists of intensities that pass between bodies, human and nonhuman, often below conscious knowing and "beyond emotion" (Seigworth and Gregg 2010, 1–2). Affect and cognition are never fully separable, "if for no other reason than that thought is itself a body, embodied" (Seigworth and Gregg 2010, 2–3). The authors take Spinoza's claim that "no one has yet determined what the body can do" as a permanent "not yet." There is no single, generalizable theory of affect, "and (thankfully) there never will be" (Seigworth and Gregg 2010, 3).
+	- They locate the recent resurgence of affect theory in two 1995 essays: Sedgwick and Frank's work on Silvan Tomkins and Massumi's "The Autonomy of Affect." These essays defined two main vectors, Tomkins's psychobiology of differential affects and Deleuze's Spinozist ethology of bodily capacities (Seigworth and Gregg 2010, 5–6). They then sketch eight overlapping orientations. These range from phenomenology and neuroscience to feminist and queer attention to everyday life and science studies (Seigworth and Gregg 2010, 6–9).
+	- Affect has no built-in politics. Its "promise" can just as readily become a threat, and affect bears "an intense and thoroughly immanent neutrality" (Seigworth and Gregg 2010, 9–10). Drawing on Roland Barthes's The Neutral, they cast affect theory as an "inventory of shimmers," a register of nuances and gradations of intensity (Seigworth and Gregg 2010, 10–11). From Bruno Latour's account of training a perfumer's "nose," they derive the idea that to have a body is to learn to be affected, joining "the patho-logy of a body" with "the pedagogy of an affective world" (Seigworth and Gregg 2010, 11–12). Because affect concerns "how" more than "what," many affect theorists care more about style than about fixed method (Seigworth and Gregg 2010, 14). The authors close with personal accounts of how they encountered affect, through Lawrence Grossberg's work on popular music and Sedgwick's readings of Tomkins (Seigworth and Gregg 2010, 19–24).
+- Main Claim(s)
+	- Affect is synonymous (in many ways) with force or forces of encounter, which means they are always "in between" and in the midst of a matrix of relations that are always stretching and shimmering. It introduces a dynamism of intensity to traditional binary relations.
+- Direct Quote(s)
+	- How to begin when, after all, there is no pure or somehow originary state for affect? Affect arises in the midst of inbetween-ness: in the capacities to act and be acted upon. Affect is an impingement or extrusion of a momentary or sometimes more sustained state of relation as well as the passage (and the duration of passage) of forces or intensities. That is, affect is found in those intensities that pass body to body (human, nonhuman, part-body, and otherwise), in those resonances that circulate about, between, and sometimes stick to bodies and worlds, and in the very passages or variations between these intensities and resonances themselves.(1)
+	- Affect is in many ways synonymous with force or forces of encounter. The term ‘‘force,’’ however, can be a bit of a misnomer since affect need not be especially forceful (although sometimes, as in the psychoanalytic study of trauma, it is). (2)
+	- In practice, then, affect and cognition are never fully separable—if for no other reason than that thought is itself a body, embodied. Cast forward by its open-ended in-between-ness, affect is integral to a body’s perpetual becoming (always becoming otherwise, however subtly, than what it already is), pulled beyond its seeming surface-boundedness by way of its relation to, indeed its composition through, the forces of encounter. With affect, a body is as much outside itself as in itself—webbed in its relations— until ultimately such firm distinctions cease to matter. (3)
+	- Two key aspects are immediately worth emphasizing, or re-emphasizing, here: first, the capacity of a body is never defined by a body alone but is always aided and abetted by, and dovetails with, the field or context of its force-relations; and second, the ‘‘not yet’’ of ‘‘knowing the body’’ is still very much with us more than 330 years after Spinoza composed his Ethics. But, as Spinoza recognized, this issue is never the generic figuring of ‘‘the body’’ (any body) but, much more singularly, endeavoring to configure a body and its affects/affectedness, its ongoing affectual composition of a world, the this-ness of a world and a body (3)
+	- Because affect emerges out of muddy, unmediated relatedness and not in some dialectical reconciliation of cleanly oppositional elements or primary units, it makes easy compartmentalisms give way to thresholds and tensions, blends and blurs. (4)
+	- Not only has the theoretical content of these particular works proven to be invigorating (combining affect’s displacement of the centrality of cognition with affect theory’s own displacement of debates over the centrality of structuralism and poststructuralism) but the voice and stylistics of their writings—where affect serves as force and form—have likewise contributed to their wide circulation and considerable influence in the years since. These two essays from 1995, along with subsequent work undertaken by their authors, have given substantial shape to the two dominant vectors of affect study in the humanities: Silvan Tomkins’s psychobiology of differential affects (1962) (Sedgwick and Frank) and Gilles Deleuze’s Spinozist ethology of bodily capacities (1988a) (Massumi). (5)
+	- From the midst of such stretching, the neutral served as Barthes’s attempt to forge an ethics or ‘‘discourse of the ‘lateral choice’ ’’ or, as he went on to say, this approach afforded him ‘‘a free manner—to be looking for my own style of being-present to the struggles of my time’’ (8). What should follow as critical practice, Barthes argued, is a neutrally inflected, immanent pathos or ‘‘patho-logy’’ that would be an ‘‘inventory of shimmers, of nuances, of states, of changes (pathè)’’ as they gather into ‘‘affectivity, sensibility, sentiment,’’ and come to serve as ‘‘the passion for difference’’ (77). Here affect theory is, at one level, an ‘‘inventory of shimmers’’ while, upon another register, it is a matter of affectual composition (in a couple of senses of the word ‘‘composition’’—as an ontology always coming to formation but also, more prosaically, as creative/writerly task). This is a passion for differences as continuous, shimmering gradations of intensities. Making an inventory (of singularities). And in the interval, is the stretching: unfolding a patho-logy (of ‘‘not yets’’). (11)

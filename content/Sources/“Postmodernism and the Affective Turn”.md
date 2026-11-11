@@ -1,0 +1,43 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Smith]], Rachel Greenwald
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- Twentieth Century Literature
+- Form/Type
+	- Journal Article
+- Publication Year
+	- [[2011]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 57
+- Issue
+	- 3/4
+- Pages
+	- 423-446
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Smith]], Rachel Greenwald. [[“Postmodernism and the Affective Turn”]] Twentieth Century Literature 57, no. 3/4 (2011): 423–46. JSTOR.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Smith takes aim at what she calls the "affective hypothesis." This is the shared belief that postmodernist fiction is tonally cold, and that this coldness means the work carries no affective charge (Smith 2011, 423). The hypothesis outlived the postmodern wave itself. Reviewers now use it to praise younger writers whose warmer prose supposedly marks a return to realism and to the emotional centrality of the individual (424). Smith finds this troubling. Novels that explicitly critique the humanist subject, such as Richard Powers's The Echo Maker, get recast as affirmations of "scientific humanism" (426). Against this, she turns to affect theory, which she says largely works to loosen the assumed tie between feeling and the individual (428). She traces a Spinozist line to Massumi's distinction between affect and emotion. In that account, affect is preconscious, unqualified intensity, and emotion is intensity that has been coded, "owned and recognized" (430–31). Read this way, The Echo Maker turns its theme of Capgras syndrome into an image of narrative itself. Mark's delusion is reason "run amok," a story forced onto an affective situation that makes no sense. The novel extends that condition to post-9/11 Americans who cover their disconnection with patriotic narratives (434). Formally, the novel swings between "impulse excitation," such as a note that compels action, and inhuman distance, such as the accident told from the point of view of migrating cranes (436–38). Its opacity, Smith argues, exposes emotion as always coded by social practice. Transparent psychological realism, by contrast, risks propping up the status quo (438). Smith then links the affective hypothesis to neoliberalism, since it naturalizes the individual as the home of real meaning (439). Drawing on Latour's "constructivism," she ends by reframing postmodernism as "affective constructivism." Warm and cold texts alike become forms of "affective transmission, augmentation, and codification" (440–42).
+- Main Claim(s)
+	- Literary and cultural critics who say that postmodern literature is "affectively cold" fundamentally misunderstand what the affective turn in criticism was. It privileges individual and internal subjectivities, instead of world and social subjectivities. This critique is not only mistaken, but indicative of a "neoliberal" turn in literature, and literary criticism. 
+- Direct Quote(s)
+	- Critics associated with what Patricia Clough has defined as "the affective turn" argue that preconscious feelings and impulses are altered by smells, hormones, gestures, and images, and that these affective incitements change depending upon the qualitative conditions of social relations. This understanding of affect suggests that what we imagine to be individual and specific - impulses, attitudes, emotions, and feelings - in fact have a social, historical and therefore shared dimension. (423)
+	- The affective hypothesis posits that postmodernist literature is characterized by an absence of tonal warmth and that the absence of tonal warmth in a given work signals an absence of affective charge inherent to the work. (423)
+	- In celebrating this “warm, beating heart of an authentic humanism,” Tanenhaus exposes what often lurks behind the aesthetic preference for the warmth of fiction that strays from postmodernism’s presumed coldness: a desire for the restoration of a humanist subject to the core of the novel. (425)
+	- This privileging of the “single human being” as the location of feeling in fiction might merely seem a matter of aesthetic preference if it did not so dramatically coincide with the prevailing focus on the individual in contemporary society. (425-426)
+	- In contemporary work on affect, Spinoza’s insistence that the body’s actions are not entirely determined by the mind allows for the possibility that what we experience as feeling may have a preconscious bodily source that is distinct from the various forms of intentionality, rationality, and individuation that humanist accounts of emotion emphasize. This, in turn, allows for an approach to feeling, an experience that we tend to mark as intensely individual, that emphasizes its corporeal and therefore impersonal site of registration on the one hand and the particularities of its social, cultural, and historical interpretation on the other. (429-430)
+	- It is therefore worrisome when novelists like Powers, who relentlessly foreground this indeterminacy are remapped as humanist-realists. It means, among other things, that the critical edge of their work is being brushed aside in favor of a reading that sees it as affirming what we think we already know: that the individual human is the location of real meaning and significance. That this particular commonplace has a central role to play in the naturalization of neoliberal ideology is either the direct cause of this critical tendency, its unintended result, or, most likely, both. In this case, the affective hypothesis provides a powerful justification for a neoliberal turn in literature and literary criticism. (439)

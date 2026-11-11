@@ -1,0 +1,47 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Seigworth]], Gregory; [[Pedwell]], Carolyn
+- Translator(s)
+	- 
+- Editor(s)
+	- [[Seigworth]], Gregory; [[Pedwell]], Carolyn
+- Container Book/Journal
+	- The Affect Theory Reader 2
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2023]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Seigworth]], Gregory, and Carolyn [[Pedwell]]. [[“Introduction--A Shimmer of Inventories”]] In The Affect Theory Reader 2, edited by Gregory J. [[Seigworth]] and Carolyn [[Pedwell]]. Duke University Press, 2023.
+- Section/Chapters for use
+	- Full Text
+- "Abstract"
+	- Seigworth and Pedwell introduce a sequel to the 2010 Affect Theory Reader. It arrives amid Trumpism and authoritarian populism, BlackLivesMatter, ecological devastation, the pandemic, and war (Seigworth and Pedwell 2023, 1). Where the first volume brought "a modicum of coherence" to the field, this one aims to "shake a few things loose" (3). Following Berlant, they hold that "there is no monoaffective imaginary" (4). Their goal is to "knock sideways" any orthodoxy or received history, and to take seriously critiques such as AffectSoWhite (5). They therefore invert the first volume's "inventory of shimmers" into a "shimmer of inventories" (6). They offer one heuristic inventory, Spinoza's "lines, planes, and bodies," which maps onto affectio (contact), affectus (variation), and immanence (capacity). They warn, however, that no single schema can catch every genre of affect inquiry (6–7). 
+	- Affect theory, they insist, "has never been one (theory)," never had a telos, and never took a "turn" (11). They then work through a series of ways critics and adopters get off on the "wrong foot." The first is reading affect's "pre-" and "non-" prefixes as favoring matter over mind. Instead, affect theory explores a Whiteheadian "nonbifurcated" world (12). Affect is "foundationally relational," and theory and practice are folded together. Following Berlant, the senses become trained, historically situated theoreticians, since "intuition is where affect meets history" (13–14). Capacity, drawing on Puar, is not a property of bodies but lives in relations (17). The charge of "performative self-contradiction" assumes that language is free of affect, and they call it "one of the dreariest critiques" (18). The rest of the introduction surveys the volume's five sections, from "Tensions, In Solution" through "Unlearning" and "The Matter of Experience" to a "Living Laboratory" of algorithmic capture (20–48). It closes with Stewart and Berlant (49–50).
+- Main Claim(s)
+	- There is no such thing as a singular and all encompassing "Affect Theory," and that is part of the point (even if we can find some heuristics in the fundamental texts {spinoza}). It also has to be made clear that Affect Theory is always interested in historical, contingent, and non-bifurcated experience.
+- Direct Quote(s)
+	- "If 2010’s Affect Theory Reader brought, at least, a modicum of coherence to a twinkling constellation of multidisciplinary shimmerings, we hope that this collection manages to shake a few things loose by injecting elements of disquiet, tension, ambiguity, obstinacy, oversaturatedness, cruel-esque optimism, and sometimes unmitigated pessimism into any too ready acclamation of affect theories’ taken-for-granted presumptions, procedures, and palpabilities." (2-3)
+	- "Affect studies continues to evolve and mutate as a rangy and writhing poly-jumble of a creature (with far more than eight tentacles). Indeed, we have a mutual friend who confessed somewhat frustratedly that capturing the contemporary state of affect theory was not unlike entering a 'fugue state.'...There will never be a single overarching critical-methodological magnetic force that magically consolidates all the touchpoints, vectors, and ambiences of affect study into any representative totality." (4)
+	- "Spinoza’s “lines, planes, and bodies” in his Ethics (III preface) can offer a geometrically elegant architecture for formatting approaches to affect, for, that is, inventorying affect’s shimmerings under dif­ferent types of light: bodies (affectio), lines (affectus), and planes (immanence)." (6)
+	- "Affectio or affection—initially and somewhat mistakenly translated as “emotion”—focuses on a body’s (and/or bodies’) doing or undoing at the point of contact/encounter/impingement." (6)
+	- "Affectus concerns how forces or intensities rise and fall over the course of action undertaken by a body/bodies—focusing on relationality and process as continuous lines of variation, always in the midst of ongoingness." (6)
+	- "Immanence is the pure capacity of all things, all bodies (a world) to affect and be affected, to connect and disconnect: emphasizing the infinite potential for connectedness and relationality stretched to its widest as a single plane (God, nature, substance)." (6)
+	- "Here, we will whisper something into your ear: we (this book’s editors) sometimes entertain the potentiality and, yes, the reality that affect inquiry can always be thoroughly redrawn, undone. Radical contextualism, rigorous attunement to felt singularity, and an unshakable belief in historical contingency will do that to you. Affect theory has never been one (theory), never had a telos, never been nor taken a “turn.” The exploration of affect has, from the get-go, been all fits and starts, do-overs and do-again-and-agains, flailings and flailings-better, flailings-worse." (11)
+	- "The original source for setting off on the most seriously wrong of all possible feet still haunts: occupying one side or the other of the Cartesian split of mind/matter. Perhaps it would have been better if, like Alfred North Whitehead, affect theory stated more directly that it wished to explore the “nonbifurcated” nature of material realities and speculative inquiry" (12)
+	

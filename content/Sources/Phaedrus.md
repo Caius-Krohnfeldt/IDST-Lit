@@ -1,0 +1,42 @@
+- Epoch
+	- [[Ancient]]
+- Author(s)
+	- [[Plato]]
+- Translator(s)
+	- [[Jowett]], Benjamin
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 1999
+- Original Date
+	- ~[[370]]BCE
+- Publisher(s)
+	- Project Gutenberg
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Plato]]. [[Phaedrus]]. Translated by Benjamin [[Jowett]]. Project Gutenberg, 1999.
+- Section/Chapters for use
+	- Charioteer Analogy
+- "Abstract"
+	- The chariot analogy comes from Socrates' second speech in the Phaedrus, where he praises erotic love as a form of divine madness. He first argues that the soul is immortal because it is self-moving (Plato 1999, 245c–246a). Since its true form would take a god to describe, he offers an image instead. The soul is like a winged charioteer driving a pair of winged horses (Plato 1999, 246a–b). The gods' horses are all good, but in a human soul one horse is noble and obedient and the other is unruly, which makes driving difficult (Plato 1999, 246b).
+	- The souls follow the gods in procession to the rim of heaven, where the divine minds behold true being: justice, moderation, and knowledge as they really are (Plato 1999, 246e–247e). Human charioteers struggle because the bad horse drags them down. They glimpse the Forms only partly, and souls that lose their wings fall into bodies (Plato 1999, 248a–c). The amount of truth a soul has seen determines its rank in its first life, from philosopher or lover down to tyrant (Plato 1999, 248d–e). Beauty is the only Form that shines clearly through sight. When a lover sees a beautiful face, he recalls true Beauty, and the soul's wings begin painfully to regrow (Plato 1999, 249d–252b).
+	- Socrates then returns to the horses to describe the lover's inner struggle. The white horse is restrained by shame, while the dark horse lunges toward the beloved and demands sex (Plato 1999, 253c–254a). Each time, the charioteer, struck with reverence at the memory of Beauty, pulls back hard until the bad horse is humbled and follows in awe (Plato 1999, 254b–e). If the lovers' better elements prevail and lead them to an ordered, philosophical life, they live in happiness and self-mastery and regain their wings (Plato 1999, 256a–b). Lovers who choose a less philosophical, honor-loving life fare well but less fully (Plato 1999, 256b–e). The analogy presents desire as the energy of the soul, to be governed by reason and turned toward wisdom rather than suppressed.
+- Main Claim(s)
+	- The soul is self-moving and always in motion, which makes it immortal. More on the tripartite soul, and the taming of passion/appetite and spirit. 
+- Direct Quote(s)
+	- The soul through all her being is immortal, for that which is ever in motion is immortal; but that which moves another and is moved by another, in ceasing to move ceases also to live. Only the self-moving, never leaving self, never ceases to move, and is the fountain and beginning of motion to all that moves besides. Now, the beginning is unbegotten, for that which is begotten has a beginning; but the beginning is begotten of nothing, for if it were begotten of something, then the begotten would not come from a beginning.
+	- Of the nature of the soul, though her true form be ever a theme of large and more than mortal discourse, let me speak briefly, and in a figure. And let the figure be composite—a pair of winged horses and a charioteer. Now the winged horses and the charioteers of the gods are all of them noble and of noble descent, but those of other races are mixed; the human charioteer drives his in a pair; and one of them is noble and of noble breed, and the other is ignoble and of ignoble breed; and the driving of them of necessity gives a great deal of trouble to him. I will endeavour to explain to you in what way the mortal differs from the immortal creature.
+	- As I said at the beginning of this tale, I divided each soul into three—two horses and a charioteer; and one of the horses was good and the other bad: the division may remain, but I have not yet explained in what the goodness or badness of either consists, and to that I will now proceed. The right-hand horse is upright and cleanly made; he has a lofty neck and an aquiline nose; his colour is white, and his eyes dark; he is a lover of honour and modesty and temperance, and the follower of true glory; he needs no touch of the whip, but is guided by word and admonition only. The other is a crooked lumbering animal, put together anyhow; he has a short thick neck; he is flat-faced and of a dark colour, with grey eyes and blood-red complexion (Or with grey and blood-shot eyes.); the mate of insolence and pride, shag-eared and deaf, hardly yielding to whip and spur. Now when the charioteer beholds the vision of love, and has his whole soul warmed through sense, and is full of the prickings and ticklings of desire, the obedient steed, then as always under the government of shame, refrains from leaping on the beloved; but the other, heedless of the pricks and of the blows of the whip, plunges and runs away, giving all manner of trouble to his companion and the charioteer, whom he forces to approach the beloved and to remember the joys of love. They at first indignantly oppose him and will not be urged on to do terrible and unlawful deeds; but at last, when he persists in plaguing them, they yield and agree to do as he bids them. And now they are at the spot and behold the flashing beauty of the beloved; which when the charioteer sees, his memory is carried to the true beauty, whom he beholds in company with Modesty like an image placed upon a holy pedestal. He sees her, but he is afraid and falls backwards in adoration, and by his fall is compelled to pull back the reins with such violence as to bring both the steeds on their haunches, the one willing and unresisting, the unruly one very unwilling; and when they have gone back a little, the one is overcome with shame and wonder, and his whole soul is bathed in perspiration; the other, when the pain is over which the bridle and the fall had given him, having with difficulty taken breath, is full of wrath and reproaches, which he heaps upon the charioteer and his fellow-steed, for want of courage and manhood, declaring that they have been false to their agreement and guilty of desertion. Again they refuse, and again he urges them on, and will scarce yield to their prayer that he would wait until another time. When the appointed hour comes, they make as if they had forgotten, and he reminds them, fighting and neighing and dragging them on, until at length he on the same thoughts intent, forces them to draw near again. And when they are near he stoops his head and puts up his tail, and takes the bit in his teeth and pulls shamelessly. Then the charioteer is worse off than ever; he falls back like a racer at the barrier, and with a still more violent wrench drags the bit out of the teeth of the wild steed and covers his abusive tongue and jaws with blood, and forces his legs and haunches to the ground and punishes him sorely. And when this has happened several times and the villain has ceased from his wanton way, he is tamed and humbled, and follows the will of the charioteer, and when he sees the beautiful one he is ready to die of fear. And from that time forward the soul of the lover follows the beloved in modesty and holy fear.

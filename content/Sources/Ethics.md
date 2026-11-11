@@ -1,0 +1,36 @@
+- Epoch
+	- [[Spinozism]]
+- Author(s)
+	- [[Spinoza]], Benedictus
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 2003
+- Original Date
+	- [[1677]]
+- Publisher(s)
+	- Project Gutenberg
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- 
+- Section/Chapters for use
+	- Part III
+- "Abstract"
+	- Part III of Spinoza’s Ethics argues that the emotions are natural phenomena, governed by the same necessity as everything else and open to geometric demonstration, not defects in human nature (“Most writers on the emotions and on human conduct”; “I shall consider human actions and desires”). Spinoza defines emotion as bodily modifications that increase or diminish the body’s power of activity, together with the ideas of those modifications (“By emotion I mean the modifications of the body”), and distinguishes actions, where we are the adequate cause, from passions, where we are only a partial one (“I say that we act when anything takes place”). He holds that mind and body are one thing under two attributes (“Body cannot determine mind to think, neither can”), so belief in free will reflects ignorance of causes (“men believe themselves to be free, simply because”). Each thing’s endeavour to persist (“Everything, in so far as it is in itself, endeavours”) grounds three primary emotions, desire, pleasure, and pain (“beyond these three I recognize no other primary emotion”), from which love, hatred, and social affects derive (“Love is nothing else but pleasure accompanied by the idea”). Emotions spread by imitation (“By the very fact that we conceive a thing, which is like ourselves”). The part closes by defining passive emotion as a confused idea (“Emotion, which is called a passivity of the soul”) while arguing that active emotions reduce to pleasure and desire (“Among all the emotions attributable to the mind as active”).
+- Direct Quote(s)
+	- 

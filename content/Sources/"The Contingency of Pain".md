@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Cultural Politics of Emotion
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2014]]
+- Original Date
+	- 
+- Publisher(s)
+	- Edinburgh University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 2nd Edition
+- Link(s)
+	- 
+- Chicago Endnote
+	- Ahmed, Sara. “The Contingency of Pain.” In The Cultural Politics of Emotion, 2nd ed. Edinburgh University Press, 2014.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Ahmed argues that pain, usually treated as the most private sensation, is social and political because it shapes bodily surfaces and attaches bodies to others (Ahmed 2014). She opens with a Christian Aid fundraising letter about landmines. The letter turns the pain of others into the Western reader's sadness and then into the reader's "empowerment," so that generosity becomes a national character trait that conceals prior histories of taking (Ahmed 2014).  Drawing on Freud's bodily ego, medical definitions of pain, Leder, and Scarry, Ahmed argues that we become aware of the skin as a surface through moments of intensification. A stubbed toe or period pain is read as "it hurts," then "it is bad," and the body reorients away from what it takes to be the cause (Ahmed 2014). She links this "intensification" to Butler's "materialisation": pain produces the effect of boundary and surface, and what separates us from others also connects us to them (Ahmed 2014). Following Sartre, she calls pain a "contingent attachment to the world," noting that contingency and contact share a Latin root (Ahmed 2014).  Pain is solitary but never private, because it seeks a witness. Writing from her experience of living with her mother's pain, Ahmed proposes an ethics of responding to pain one cannot know or feel, rather than appropriating it through empathy (Ahmed 2014). On politics, she agrees with Wendy Brown that fetishizing the wound as identity is a problem. She warns, however, that privileged subjects mobilize injury narratives more easily, and that forgetting the wound would repeat the injury (Ahmed 2014). Her case is Bringing Them Home, the Australian report on the Stolen Generations. She shows how national "shame" lets white Australians claim indigenous pain as the nation's own, and she reads one testimony to model a hearing that does not claim the other's pain (Ahmed 2014). Politics, she concludes, must rest on learning to live with the impossibility of reconciliation rather than on fellow-feeling (Ahmed 2014).
+- Direct Quote(s)
+	- 

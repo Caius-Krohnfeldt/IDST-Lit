@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Ahmed]], Sara
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- The Cultural Politics of Emotion
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2014]]
+- Original Date
+	- 
+- Publisher(s)
+	- Edinburgh University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 2nd Edition
+- Link(s)
+	- 
+- Chicago Endnote
+	- Ahmed, Sara. “The Affective Politics of Fear.” In The Cultural Politics of Emotion, 2nd ed. Edinburgh University Press, 2014.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Ahmed argues that fear does not come from within a subject or reside in a feared object. It works through and on bodies, aligning some with and against others and preserving the present by announcing threats to life itself (Ahmed 2014). She begins with Fanon's encounter with a white child ("Mama, see the Negro! I'm frightened!"). The child's fear depends on a misreading shaped by histories of stereotype, and it is the black body that is sealed in and made to take up less space (Ahmed 2014).  Ahmed then revises the usual distinction in which fear has an object and anxiety does not. Following Heidegger, she argues that fear is intensified when its object approaches and might "pass us by," because a fear no longer contained by an object makes the whole world seem fearsome (Ahmed 2014). Anxiety, by contrast, sticks to objects and gathers more of them (Ahmed 2014). Using Freud's Little Hans case, she shows that fear slides between objects, but she locates that sideways movement in social histories rather than in the psyche alone (Ahmed 2014).  The second section treats fear as spatial. Fear shrinks the body and so aligns bodily space with social space. Drawing on feminist work on women's fear of public space, Ahmed argues that vulnerability is an effect that restricts some bodies' mobility while extending that of others (Ahmed 2014). The final section turns to the "global economies of fear" after September 11. Western citizens were told to keep traveling and consuming, and fear mediated by national love and the flag let some bodies occupy more space (Ahmed 2014). Meanwhile, the figure of the terrorist who "could be" anyone justified expanded detention that fell on people read as Arab, Muslim, or South Asian, and on asylum seekers (Ahmed 2014). Fear, she concludes, expands the mobility of some bodies and contains others precisely because it resides positively in no one body (Ahmed 2014).
+- Direct Quote(s)
+	- 

@@ -1,0 +1,42 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Sedgwick]], Eve Kosofsky and [[Frank]], Adam
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- Critical Inquiry
+- Form/Type
+	- Journal Article
+- Publication Year
+	- [[1995]]
+- Original Date
+	- 
+- Publisher(s)
+	- University of Chicago Press
+- Volume
+	- 21
+- Issue
+	- no. 2
+- Pages
+	- 496-522
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Sedgwick]], Eve Kosofsky, and Adam [[Frank]]. [["Shame in the Cybernetic Fold--Reading Silvan Tomkins"]] Critical Inquiry 21, no. 2 ([[1995]]): 496–522.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- Sedgwick and Frank introduce Tomkins (1911-1991) as a little-known American psychologist whose affect theory cuts against the habits of 1990s critical theory: the assumption that distance from biology ensures justice to difference, and a reliance on binary models (496-97). They argue that his rich phenomenology of emotion cannot be separated from his “scientism” (497). Their central claim is historical: Tomkins belongs to “the cybernetic fold,” roughly the late 1940s to mid-1960s, when powerful computers were imagined but not yet available (508-9). His theory distinguishes the affect system from the drive system, which affect amplifies; any affect may have any object, and the system has no single output (503-4). They read his model of innate activators, built on the “density of neural firing,” as layering digital and analog representation. On/off activation yields qualitatively differentiated affects, a “many-valued” system of finitely many (n>2) values (505-7, 511). Current theory, they argue, wrongly equates machine with digital and biology with analog, which forecloses this conceptual realm (505, 511-12). They test this with Cvetkovich’s Mixed Feelings, whose “theory of affect” has no distinct feelings in it (512-14), and with a cognitive account of emotion that they argue is no less essentialist (515-17). Shame is the exemplary affect. Tomkins locates its activator in the incomplete reduction of interest or joy (500), and “theory” first emerges in volume 2 from a shame-bind vignette (518-20). Shame, disgust, and contempt work through boundaries or gestalts and do not appear on the activation graph (520-21). The authors also resist the use of Tomkins as an origin myth for a core self in self psychology (501-2). They close by deferring the question of whether the nine-affect hypothesis is true, offering “tentative maps” for further reading (521-22).
+- Main Claims
+	- Sedgwick and Frank argue that current critical theory relies to heavily on antibiologism and binary relations. Tomkins affect theory complicates this. Affect intensifies the drives of the biological body, and layers the material and "immaterial". The binary of Materialism/Immaterialism, Mind/Body, Essentialist/Antiessentialist is too limiting. There are minds and bodies and being in between. 
+- Direct Quote(s)
+	- "[[Tomkins]] is also, then, a figure whom such habits and procedures {of postmodernism} would tend sharply to rebuke. In fact, reading [[Tomkins]]'s work on affect has consistently involved us in a peculiar double movement; to be responsive to the great interest of his writing seems also, continually, to make graphic the mechanism of what would seem an irresistibly easy discreditation. You don't have to be long out of theory kindergarten to make mincemeat of, let's say, a psychology that depends on the separate existence of eight (only sometimes it's nine) distinct affects hardwired into the human *biological* system." (497).
+	- "A concomitant of distinguishing in the first place between an affect system and the drive system that it analogically amplifies is that, unlike the drives (for example, to breathe, to eat), "any affect may have any 'object.' This is the basic source of complexity of human motivation and behavior" (AIC, 1:347). Furthermore, in a refusal of the terms of behaviorism, Tomkins describes the affect system as a whole as having "no single 'output"' (AIC, 3:66); and also unlike the drives, "affective amplification is indifferent to the means-end difference" (AIC, 3:67). It is these specifications that make affect theory such a useful site for resistance to teleological presumptions of the many sorts historically embedded in the disciplines of psychology." (503).
+	- Where cognitive psychology has tried to render the mind's processes thoroughly transparent from the point of view of cognition, where behaviorism has tried to do the same thing from the point of view of behavioral "outcome," where psychoanalysis has profited from the conceptual elegance of a singlebar (repression) between a single continuous "consciousness" and a single "unconscious," Tomkins's affect theory by contrast offers a wealth of sites of productive opacity. To valorize feedback in systems theory is also necessarily to valorize error and blindness as being specifically productive of structure. (510). 
+	- The antibiologism of current theory assumes, as we've said, that it's the distance of any theory from a biological (or, by mistaken implication, an analog) basis that alone can make the possibility of doing any justice "to difference (individual, historical, and cross-cultural), to contingency, to performative force, and to the possibility of change." Yet there is no reason to believe that the necessarily analog models of the color wheel or, shall we say, the periodic table of the elements, constrain against an understanding of difference, contingency, performative force, or the possibility of change. Indeed, we've been arguing that these analog models may be irreplaceably crucial for access to certain important ranges of difference. There is not a choice waiting to be made, in evaluating theoretical models, between essentialism and no essentialism. (517)
+	- We have deferred, specifically, the confrontation between any cross-cultural perspective and Tomkins's hypothesis that there is a kind of affective table of the elements, comprising nine components, infinitely recombinable but rooted in the human body in nine distinctive and irreducible ways. At some level we have not demanded even of ourselves to ascertain whether we believe this hypothesis to be true; we have felt that there was so much to learn first by observing the autonomic nervous system of a routinized dismissal of it in the terms of today's Theory. (521)

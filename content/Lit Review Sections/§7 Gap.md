@@ -1,0 +1,7 @@
+- *[[§7 Gap]]*
+	- Purpose
+		- 
+	- Sources
+		- 
+	- Main Claim(s)
+		- It is an issue of the ontology of objeective presence that a body needs to be present in order to be affected. It is a mistake to think one needs a body to touch. That practicality and equipment is an operation of materiality. That minds cannot touch. That language cannot touch. 

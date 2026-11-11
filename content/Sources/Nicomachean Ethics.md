@@ -1,0 +1,40 @@
+- Epoch/Paradigm
+	- [[Ancient]]
+- Author(s)
+	- [[Aristotle]]
+- Translator(s)
+	- [[Smith, J.A]]
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- [[1999]]
+- Original Date
+	- ~[[340BCE]]
+- Publisher(s)
+	- Project Gutenberg
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Aristotle]]. [[Nicomachean Ethics]]. Translated by [[Smith, J.A]]. Project Gutenberg, 1999.
+- Section/Chapters for use
+	- I.13, II, VII
+- "Abstract"
+	- The Ethics treats emotion as part of moral character instead of a threat to reason. Aristotle holds that virtues of character arise through habituation (II.1, 1103a14-b25), and that their field is pleasures and pains (II.3, 1104b3-1105a16). He defines the pathē in a list that includes desire, anger, fear, confidence, envy, joy, hatred, longing, emulation, and pity, and in general feelings accompanied by pleasure or pain, distinguishing them from capacities and settled dispositions (II.5, 1105b19-1106a13). The doctrine of the mean then holds that to feel well is to feel at the right times, about the right things, toward the right people, for the right end, and in the right way (II.6, 1106b16-24). This makes emotion evaluable and educable: feelings are assessed by their fit with circumstance and object. The division of the soul in I.13 (1102a26-1103a10) places the appetitive part as non-rational yet able to “listen to” reason, a formulation that sets up much later debate over how affect relates to cognition. IV.5 (1125b26-1126b10) treats anger in particular, criticizing both excess and deficiency. Book VII takes up akrasia (VII.1-10, 1145a-1152a), where a person knows what is best yet is moved otherwise by passion, and pleasure (VII.11-14, 1152b-1154b; X.1-5, 1172a-1176a), which Aristotle treats as completing activity instead of a mere sensation.
+- Main Claim(s)
+	- Happiness is the ultimate end of human activity. It is an end in itself,  with no reference to something else. Happiness is also only possible as an evaluation of a subject is only possible at the very end of a subjects life (just take Priam for instance). Feelings are always followed by pleasure or pain. We have relations to our feelings (which are natural capacities), and these define our goodness and badness. (This will become a need for us to train ourselves into taking pleasure in the right things). 
+- Direct Quote(s)
+	- Now since the ends are plainly many, and of these we choose some with a view to others (wealth, for instance, musical instruments, and, in general, all instruments), it is clear that all are not final: but the Chief Good is manifestly something final; and so, if there is some one only which is final, this must be the object of our search: but if several, then the most final of them will be it.       Now that which is an object of pursuit in itself we call more final than that which is so with a view to something else; that again which is never an object of choice with a view to something else than those which are so both in themselves and with a view to this ulterior object: and so by the term “absolutely final,” we denote that which is an object of choice always in itself, and never with a view to any other.       And of this nature Happiness is mostly thought to be, for this we choose always for its own sake, and never with a view to anything further: whereas honour, pleasure, intellect, in fact every excellence we choose for their own sakes, it is true (because we would choose each of these even if no result were to follow), but we choose them also with a view to happiness, conceiving that through their instrumentality we shall be happy: but no man chooses happiness with a view to them, nor in fact with a view to any other thing whatsoever. (I.4)
+	- With good reason then neither ox nor horse nor any other brute animal do we call happy, for none of them can partake in such working: and for this same reason a child is not happy either, because by reason of his tender age he cannot yet perform such actions: if the term is applied, it is by way of anticipation.      For to constitute Happiness, there must be, as we have said, complete virtue and a complete life: for many changes and chances of all kinds arise during a life, and he who is most prosperous may become involved in great misfortunes in his old age, as in the heroic poems the tale is told of Priam: but the man who has experienced such fortune and died in wretchedness, no man calls happy. (I.7)
+	- By Feelings, I mean such as lust, anger, fear, confidence, envy, joy, friendship, hatred, longing, emulation, compassion, in short all such as are followed by pleasure or pain: by Capacities, those in right of which we are said to be capable of these feelings; as by virtue of which we are able to have been made angry, or grieved, or to have compassionated; by States, those in right of which we are in a certain relation good or bad to the aforementioned feelings; to having been made angry, for instance, we are in a wrong relation if in our anger we were too violent or too slack, but if we were in the happy medium we are in a right relation to the feeling. And so on of the rest.     Now Feelings neither the virtues nor vices are, because in right of the Feelings we are not denominated either good or bad, but in right of the virtues and vices we are.     Again, in right of the Feelings we are neither praised nor blamed, (for a man is not commended for being afraid or being angry, nor blamed for being angry merely but for being so in a particular way), but in right of the virtues and vices we are.     Again, both anger and fear we feel without moral choice, whereas the virtues are acts of moral choice, or at least certainly not independent of it.     Moreover, in right of the Feelings we are said to be moved, but in right of the virtues and vices not to be moved, but disposed, in a certain way...And again, Capacities we have by nature, but we do not come to be good or bad by nature, as we have said before. (II.4)

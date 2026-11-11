@@ -1,0 +1,40 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	- [[Doss]], Erika
+- Translator(s)
+	- 
+- Editor(s)
+	- 
+- Container Book/Journal
+	- American Art
+- Form/Type
+	- Journal Article
+- Publication Year
+	- [[2009]]
+- Original Date
+	- 
+- Publisher(s)
+	- The University of Chicago Press
+- Volume
+	- 23
+- Issue
+	- 1
+- Pages
+	- 9-11
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Doss]], Erika. [[“Affect”]] American Art 23, no. 1 (2009): 9–11. https://doi.org/10.1086/599051.
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- In this brief keyword essay, Doss argues that affect, best understood as "physically expressed emotion, or feeling," is increasingly useful for art historians (Doss 2009, 9). She calls for an "expanded economy of affect" that attends to public feelings such as grief, gratitude, fear, shame, anger, and hope, and to how personal and public experience shapes cultural meaning (Doss 2009, 9). She traces scholarly interest to Silvan Tomkins's work in the early 1960s, and later to Eve Sedgwick and Brian Massumi, who use affect to move past Western binaries such as mind and body and to bring the body back into cultural theory (Doss 2009, 9). She draws on Massumi's insistence that thought and feeling are inseparable and on Lauren Berlant's call for a "critical realm of the senses" (Doss 2009, 9). Doss treats artworks as embodiments of public affect, "repositories of feelings and emotions" encoded in their materials, content, and the practices of their production and reception (Doss 2009, 9). Sight alone, she argues, cannot explain how publics make sense of art. Citing W. J. T. Mitchell on our picture-saturated culture and Caroline Jones on the "modernist sensorium," she links a turn toward affective knowledge to public wariness of manipulative visual media (Doss 2009, 9–10). Emotions are often dismissed as untrustworthy evidence, but cognition itself is embodied and invested (Doss 2009, 10). Her example is Lawrence Halprin's Franklin Delano Roosevelt Memorial (1997), designed as an "experiential history lesson" that evokes emotion as visitors pass through its outdoor rooms (Doss 2009, 10). Following Joan Scott, she cautions that experience must not be treated as authentic and beyond critique, since it "is at once always already an interpretation and something that needs to be interpreted" (Doss 2009, 10). Against a Habermasian ideal of a rational public sphere, Doss concludes that American public life is saturated with emotional appeals, as in debates over immigration, reproductive rights, and the war on terror. These conditions call for a critical pedagogy that examines how and which public feelings shape history, citizenship, and national identity (Doss 2009, 10).
+- Main Claim(s)
+	- Affect is always involved in the social and cultural; always related to it in some way. Art embodies the affective relations that culture has. 
+- Direct Quote(s)
+	- Stemming from the Latin affectus, meaning to afflict or to touch, “affect” is perhaps best understood as physically expressed emotion, or feeling. If especially familiar in psychoanalytic circles, “affect” is also useful for artists and historians interested in the social dynamics of American art, in debates on the purpose and politics of representation and in questions and considerations of how viewers negotiate meaning. An expanded economy of affect, one that considers public feelings such as grief, gratitude, fear, shame, anger, and hope, and recognizes how discourses of personal and public experience shape and structure cultural meaning, is increasingly considered a viable analytic tool in art history. (9)
+	- Works of art are the physical and visual embodiment of public affect, 'repositories of feelings and emotions' that are encoded in their material form, narrative content, and 'the practices that surround their production and reception.' (9)
+	- Affect is omnipresent in contemporary American culture and society. Contrary to a Habermasian vision of a rational public sphere in which sensible citizens exchange ideas and come together in shared and progressive actions, contemporary American public life is marked by emotional appeals and affective conditions. (10)

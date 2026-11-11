@@ -1,0 +1,9 @@
+- *[[Introduction]]*
+- *[[§1 Defining Affect]]*
+- *[[§2 Tracing Affect Part 1--Plato and Aristotle]]*
+- *[[§3 Tracing Affect Part 2--Spinoza]]* (Enlightenment Era)
+- *[[§4 Tracing Affect Part 3--Heidegger and Deleuze]] (19th/20th Century)*
+- *[[§5 After the Affective Turn]]*
+- *[[§6 Discourse and Biopower]]*
+- *[[§7 Gap]]*
+- *[[Conclusion]]*

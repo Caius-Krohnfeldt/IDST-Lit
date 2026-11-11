@@ -1,0 +1,39 @@
+- Epoch
+	- [[Late Modern]]
+- Author(s)
+	- [[Foucault]], Michel
+- Translator(s)
+	- [[Sheridan]], A.M.
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 1989
+- Original Date
+	- [[1973]]
+- Publisher(s)
+	- Routledge
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- 
+- Section/Chapters for use
+	- Foucault, Michel. The Birth of the Clinic. Translated by A. M. Sheridan. Routledge, 1989.
+- "Abstract"
+	- The Birth of the Clinic is an archaeology of how modern medical perception arose between roughly 1780 and 1830. Its preface announces that the book "is about space, about language, and about death; it is about the act of seeing, the gaze" (Foucault 1989, ix). Foucault rejects the story that doctors simply cast off theory and began to see clearly. What changed, he argues, was the relation between the visible and the invisible and between seeing and saying (Foucault 1989, ix–xii). This reorganization made it possible, for the first time, to hold "a scientifically structured discourse about an individual" (Foucault 1989, xiv). The shift is captured in the replacement of the doctor's question "What is the matter with you?" by "Where does it hurt?" (Foucault 1989, xviii). Foucault presents the study as structural and critical, an analysis of the conditions of possibility of medical experience rather than an argument for or against any kind of medicine (Foucault 1989, xix).
+	- The chapters begin with the classificatory "medicine of species," which arranged diseases in a table like botanical kinds, apart from the patient's body (Foucault 1989, 3–21). They then follow the Revolution's reorganization of hospitals and medical teaching (Foucault 1989, 22–87). Next come the clinic's grammar of signs and its fusion of seeing and knowing (Foucault 1989, 88–123). Finally they examine pathological anatomy, in which Bichat's command to "open up a few corpses" lets death illuminate the hidden lesions of life (Foucault 1989, 124–173).
+	- The conclusion draws the book's larger thesis. Clinical experience required a new hospital field, a new status for the patient, and a new correlation of the visible and the expressible, all resting on "the stable, visible, legible basis of death" (Foucault 1989, 196). Space, language, and death are joined in the "anatomo-clinical method," and death becomes "the concrete a priori of medical experience" (Foucault 1989, 196). Western culture's first scientific discourse about the individual thus had to pass through death (Foucault 1989, 197). This gives medicine a foundational place among the human sciences and ties modern individuality to finitude (Foucault 1989, 197–199).
+
+- Direct Quote(s)
+	- 

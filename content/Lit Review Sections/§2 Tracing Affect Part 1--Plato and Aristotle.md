@@ -1,0 +1,23 @@
+- *[[§2 Tracing Affect Part 1--Plato and Aristotle]]*
+	- Purpose
+		- 
+	- Sources
+		- [[Plato]], *[[Republic]]*
+		- [[Plato]], *[[Symposium]]*
+		- [[Plato]], *[[Phaedrus]]*
+		- [[Aristotle]], *[["De Anima"]]*
+		- [[Aristotle]], *[[Nicomachean Ethics]]*
+		- [[Aristotle]], *[[Rhetoric]]*
+	- Main Claim(s)
+		- [[Plato]]
+			- The soul is split into multiple parts. Passion is one part of the soul, and should be subordinate to reason (and it is not just a form of reason) in the ideal soul. 
+			- Substance dualism, and the tertiary nature of art/poetry as a mode of interaction/creation in the world.
+		- [[Plato]]
+			- Love is in between the divine and the immortal, a mediator who spans chasms. 
+			- There is no unity to anything. Everything is in a perpetual process of change.
+		- [[Plato]]
+			- The soul is self-moving and always in motion, which makes it immortal. More on the tripartite soul, and the taming of passion/appetite and spirit. 
+		- [[Aristotle]]
+		- [[Aristotle]]
+		- [[Aristotle]]
+ 

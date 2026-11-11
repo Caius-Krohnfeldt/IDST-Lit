@@ -1,0 +1,46 @@
+- Epoch
+	- [[Ancient]]
+- Author(s)
+	- [[Plato]]
+- Translator(s)
+	- [[Jowett]], Benjamin
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- 1908
+- Original Date
+	- [[375]]BCE
+- Publisher(s)
+	- Project Gutenberg
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Plato]]. [[Republic]]. Translated by Benjamin [[Jowett]]. Project Gutenberg, 1908. https://www.gutenberg.org/cache/epub/1497/pg1497-images.html.
+- Section/Chapters for use
+	- Books IV, IX, X
+- "Abstract"
+	- Books IV, IX, and X develop the Republic's central claim that justice is a condition of the soul and that the just life is the happiest one. Book IV opens with Adeimantus objecting that the guardians, who own nothing, will be unhappy. Socrates replies that the founders aim at the happiness of the whole city rather than of one class (Plato 1908, 419a–421c). He then locates the four virtues in the finished city. It is wise through its rulers, courageous through its auxiliaries' preservation of right belief about what is to be feared, moderate through agreement about who should rule, and just when each class does its own work (Plato 1908, 428b–434c). Using the principle that one thing cannot undergo opposites in the same respect at once, Socrates divides the soul into reason, spirit, and appetite (Plato 1908, 436b–441c). Justice in the individual is each part doing its own work under reason's rule. It is the soul's health, and injustice its disease (Plato 1908, 441d–445b).
+	- Book IX ends the ranking of regimes with the tyrant, who is enslaved to lawless appetites and is the most miserable of all (Plato 1908, 571a–580c). Socrates then offers arguments that the philosophic life is the most pleasant. The philosopher alone has experience of every kind of pleasure and the judgment to compare them, and most other pleasures are only relief from pain and therefore shadowy and impure (Plato 1908, 580d–587b). It closes with an image of the soul as a many-headed beast, a lion, and a human being, in which justice means letting the inner human govern (Plato 1908, 588b–589b).
+	- Book X renews the exclusion of imitative poetry. Poetry stands at a third remove from truth, and it waters the passions that reason should rule (Plato 1908, 595a–607a). Socrates then argues for the soul's immortality and restores the external rewards of justice in life and after death (Plato 1908, 608c–614a). The dialogue closes with the Myth of Er, in which souls choose their next lives, and choose well only with philosophical knowledge of good and bad (Plato 1908, 614b–621d).
+- Main Claim(s)
+	- The soul is split into multiple parts. Passion is one part of the soul, and should be subordinate to reason (and it is not just a form of reason) in the ideal soul. 
+	- Substance dualism, and the tertiary nature of art/poetry as a mode of interaction/creation in the world. 
+- Direct Quote(s)
+	- Yes, I said; and you may add that they are only fed, and not paid in addition to their food, like other men; and therefore they cannot, if they would, take a journey of pleasure; they have no money to spend on a mistress or any other luxurious fancy, which, as the world goes, is thought to be happiness; and many other accusations of the same nature might be added...If we proceed along the old path, my belief, I said, is that we shall find the answer. And our answer will be that, even as they are, our guardians may very likely be the happiest of men; but that our aim in founding the State was not the disproportionate happiness of any one class, but the greatest happiness of the whole; we thought that in a State which is ordered with a view to the good of the whole we should be most likely to find justice, and in the ill-ordered State injustice: and, having found them, we might then decide which of the two is the happier. (420A-D)
+	- But the question is not quite so easy when we proceed to ask whether these principles are three or one; whether, that is to say, we learn with one part of our nature, are angry with another, and with a third part desire the satisfaction of our natural appetites; or whether the whole soul comes into play in each sort of action—to determine that is the difficulty. (436B)
+	- But a further question arises: Is passion different from reason also, or only a kind of reason; in which latter case, instead of three principles in the soul, there will only be two, 441the rational and the concupiscent; or rather, as the State was composed of three classes, traders, auxiliaries, counsellors, so may there not be in the individual soul a third element which is passion or spirit, and when not corrupted by bad education is the natural auxiliary of reason?     Yes, he said, there must be a third.     Yes, I replied, if passion, which has already been shown to be different from desire, turn out also to be different from reason.     But that is easily proved:—We may observe even in young children that they are full of spirit almost as soon as they are born, whereas some of them never seem to attain to the use of reason, and most of them late enough.     Excellent, I said, and you may see passion equally in brute animals, which is a further proof of the truth of what you are saying. (441A-B)
+	- But in reality justice was such as we were describing, being concerned however, not with the outward man, but with the inward, which is the true self and concernment of  man: for the just man does not permit the several elements within him to interfere with one another, or any of them to do the work of others,—he sets in order his own inner life, and is his own master and his own law, and at peace with himself; and when he has bound together the three principles within him, which may be compared to the higher, lower, and middle notes of the scale, and the intermediate intervals—when he has bound all these together, and is no longer many, but has become one entirely temperate and perfectly adjusted nature, then he proceeds to act, if he has to act, whether in a matter of property, or in the treatment of the body, or in some affair of politics or private business; always thinking and calling that which preserves and co-operates with this harmonious condition, just and good action, and the knowledge which presides over it, wisdom, 444and that which at any time impairs this condition, he will call unjust action, and the opinion which presides over it ignorance. (443D-444A)
+	- An ideal image of the soul, like the composite creations of ancient mythology, such as the Chimera or Scylla or Cerberus, and there are many others in which two or more different natures are said to grow into one... model the form of a multitudinous, many-headed monster, having a ring of heads of all manner of beasts, tame and wild, which he is able to generate and metamorphose at will. You suppose marvellous powers in the artist; but, as language is more pliable than wax or any similar substance, let there be such a model as you propose. Suppose now that you make a second form as of a lion, and a third of a man, the second smaller than the first, and the third smaller than the second...join them, and let the three grow into one...Next fashion the outside of them into a single image, as of a man, so that he who is not able to look within, and sees Eonly the outer hull, may believe the beast to be a single human creature. And now, to him who maintains that it is profitable for the human creature to be unjust, and unprofitable to be just, let us reply that, if he be right, it is profitable for this creature to feast the multitudinous monster and strengthen the lion and the lion-like qualities, but to starve and weaken the man, who is consequently liable to be dragged about at the mercy of either of the other two; and he is not to attempt to familiarize or harmonize them with one another—he ought rather to suffer them to fight and bite and devour one another...To him the supporter of justice makes answer that he should ever so speak and act as to give the man within him in some way or other the most complete mastery over the Bentire human creature. He should watch over the many-headed monster like a good husbandman, fostering and cultivating the gentle qualities, and preventing the wild ones from growing; he should be making the lion-heart his ally, and in common care of them all should be uniting the several parts with one another and with himself. (588C-589B)
+	- And so, when we hear persons saying that the tragedians, and Homer, who is at their head, know all the arts and all Ethings human, virtue as well as vice, and divine things too, for that the good poet cannot compose well unless he knows his subject, and that he who has not this knowledge can never be a poet, we ought to consider whether here also there may not be a similar illusion. Perhaps they may have come across imitators and been deceived by them; they may not have remembered when they saw their works that 599these were but imitations thrice removed from the truth, and could easily be made without any knowledge of the truth, 312 because they are appearances only and not realities? Or, after all, they may be in the right, and poets do really know the things about which they seem to the many to speak so well? (598E-599A)

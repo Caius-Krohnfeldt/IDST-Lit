@@ -1,0 +1,39 @@
+- Epoch
+	- [[Late Modern]]
+- Author(s)
+	- [[Foucault]], Michel
+- Translator(s)
+	- [[Hurley]], Robert
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- 1990
+- Original Date
+	- [[1976]]
+- Publisher(s)
+	- Vintage Books
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Foucault, Michel. The History of Sexuality Volume I. Translated by Robert Hurley. Vintage Books, 1990.
+- Section/Chapters for use
+	- Part III
+	- Part V
+- "Abstract"
+	- Part III, "Scientia Sexualis," argues that nineteenth-century medicine did not simply refuse to know sex; its blind spots served an effort to make sex a problem of truth (Foucault 1990, 53–57). Foucault contrasts two procedures for producing the truth of sex. The ars erotica of China, Japan, India, Rome, and Arabo-Muslim societies draws truth from pleasure itself and passes it from master to initiate in secret (Foucault 1990, 57–58). The West instead developed a scientia sexualis built around confession. After the Lateran Council of 1215, confession spread from penance into justice, medicine, education, and family life, until "Western man has become a confessing animal" (Foucault 1990, 58–59). Confession unfolds within a power relationship in which the listener judges and deciphers. Foucault rejects the idea that confessing liberates, since its production of truth is "imbued with relations of power" (Foucault 1990, 60–62). He identifies five ways confession was made scientific, including a postulate of sex's diffuse causality, a principle of latency, and a method of interpretation (Foucault 1990, 65–67). Sexuality emerged at this meeting point, and the project of a science of the subject came to center on sex (Foucault 1990, 68–70).
+	- Part V, "Right of Death and Power over Life," traces a shift from sovereign power, the right "to take life or let live," to a power "to foster life or disallow it to the point of death" (Foucault 1990, 135–138). This power over life has two poles: an "anatomo-politics of the human body" that disciplines individuals, and a "biopolitics of the population" that regulates births, health, and longevity (Foucault 1990, 139). Together they form "bio-power," which was indispensable to capitalism and raised the norm over the law (Foucault 1990, 140–144). Sex sits at the pivot of the two poles, which explains its political importance (Foucault 1990, 145–147). The West moved from a "symbolics of blood" to an "analytics of sexuality," and modern racism joined the two (Foucault 1990, 147–150). Foucault argues that "sex" is an ideal point produced by the deployment of sexuality. Resistance should therefore rally around "bodies and pleasures" rather than sex-desire (Foucault 1990, 152–157).
+
+- Direct Quote(s)
+	- 

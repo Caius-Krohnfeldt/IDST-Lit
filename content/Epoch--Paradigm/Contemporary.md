@@ -1,0 +1,12 @@
+- [[Gregg]] and [[Seigworth]] [[“An Inventory of Shimmers”]]
+- [[Doss]], [[“Affect”]]
+- [[Massumi]], [[“The Autonomy of Affect”]]
+- [[Smith]], [[“Postmodernism and the Affective Turn”]]
+- [[Seigworth]] and [[Pedwell]], [[“Introduction--A Shimmer of Inventories”]]
+- [[Ahmed]], *[[The Cultural Politics of Emotion]]*
+- [[Ahmed]], *[[The Promise of Happiness]]*
+- [[McCormack]], [[“The Elements of Affect Theories”]]
+- [[Grossberg]], [[“Affect’s Future--Rediscovering the Virtual in the Actual”]]
+- [[Hamner]], [[“Unlearning Affect”]]
+- [[Sampson]], [[“Nonconscious Affect-- Cognitive, Embodied,  or Nonbifurcated Experience?”]]
+- [[Clough]], [[“The Affective Turn--Political Economy, Biomedia, and Bodies”]]

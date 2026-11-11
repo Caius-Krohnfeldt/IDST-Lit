@@ -1,0 +1,6 @@
+- [[Heidegger]], *[[Being and Time]]*
+- [[Deleuze]], *[[Expressionism in Philosophy--Spinoza]]*
+- [[Herzberg]], *[[Happy Pills in America]]*
+- [[Foucault]], *[[The History of Sexuality]]*
+- [[Foucault]], *[[The Birth of the Clinic]]*
+- [[Foucault]], *[[Nietzsche, Genealogy, History]]*

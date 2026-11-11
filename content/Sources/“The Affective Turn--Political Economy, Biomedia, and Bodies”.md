@@ -1,0 +1,41 @@
+- Epoch
+	- [[Contemporary]]
+- Author(s)
+	-  [[Clough]], Patricia
+- Translator(s)
+	- 
+- Editor(s)
+	- [[Gregg]], Melissa; [[Seigworth]], Gregory J.
+- Container Book/Journal
+	- The Affect Theory Reader
+- Form/Type
+	- Book Chapter
+- Publication Year
+	- [[2010]]
+- Original Date
+	- 
+- Publisher(s)
+	- Duke University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Clough, Patricia. “The Affective Turn: Political Economy, Biomedia, and Bodies.” In The Affect Theory Reader, edited by Melissa Gregg and Gregory J. Seigworth. Duke University Press, 2010.
+- Section/Chapters for use
+	- Full Text
+- "Abstract"
+	- Clough argues that the turn to affect extended poststructuralist critiques of the subject but also changed them in a real way. It brought critical theory back to bodily matter, which constructionism had sidelined (Clough 2010, 206). Many theorists, she notes, followed the circuit from affect to emotion and ended up back at "the subject as the subject of emotion." She sets that path aside. 
+	- Drawing on Deleuze and Guattari, Spinoza, and Bergson, she treats affect as "pre-individual bodily forces" that raise or lower a body's capacity to act. Its most lasting insight, for her, is "matter's capacity for self-organization in being informational" (207). On this basis she argues that the affective turn both heralds and accompanies a new body, the "biomediated body." This body is produced by biomedia, which enable the mass production of genetic material, and by new media. Together they attach to and expand the informational substrate of matter, marking a "postbiological threshold" in "life itself" (207–8). Clough credits Mark Hansen for linking digitization to bodily affect. She faults him, though, for protecting the autopoietic "body-as-organism" from the challenge his own argument poses (211). Following Eugene Thacker, she shows biomedia producing a laboring body whose cells, proteins, and DNA generate value as information (215). She then reworks thermodynamic accounts of information around open systems far from equilibrium (218). The economic stakes are set out through the shift from formal to real subsumption. Capital moves from drawing laborers' reproduction into the market to extracting value directly from affect, through things like consumer confidence and political fear (220–21). The chapter closes on biopolitical racism. Following Massumi, Deleuze, and Foucault, Clough describes populations profiled statistically as "dividuals" whose affective capacities are simulated as risk factors. That profiling makes possible a racism in which some populations' healthy life requires others' death (222–23).
+- Main Claim(s)
+	- Focusing on Affect itself, rather than the relationship between affect and emotion shows the development of the so called "biomediated body" which allows the body to go beyond the subject into "life itself" where biopolitics operates. In other words, it is the biomediated body revealed by the study of affect that is controlled by forces of biopower.
+- Direct Quote(s)
+	- "Yet, many of the critics and theorists who turned to affect often focused on the circuit from affect to emotion, ending up with subjectively felt states of emotion—a return to the subject as the subject of emotion. I want to turn attention instead to those critics and theorists who, indebted to Gilles Deleuze and Félix Guattari, Baruch Spinoza and Henri Bergson, conceptualize affect as pre-individual bodily forces augmenting or diminishing a body’s capacity to act and who critically engage those technologies that are making it possible to grasp and to manipulate the imperceptible dynamism of affect. I want to argue that focusing on affect—without following the circuit from affect to subjectively felt emotional states—makes clear how the turn to affect is a harbinger of and a discursive accompaniment to the forging of a new body, what I am calling the biomediated body."
+	- "More importantly, the biomediated body exposes how digital technologies, such as biomedia and new media, attach to and expand the informational substrate of bodily matter and matter generally, and thereby mark the introduction of a 'postbiological threshold’ into 'life itself.'" (208)
+	- "If this racism is central to the political economy of the biomediated body, it is because it is a racism that is deployed each and every time a differentiation is made among and in populations, constituting additional bodies of data. In contrast to the racism linked to the body-as-organism and its skinmorphology, the racism that Foucault points to gives the biomediated body its differences, even as the biomediated body gives racism its informatic existence. Although the visibility of the body-as-organism still plays a part, the biomediated body allows the raced body to be apprehended as information." (223)

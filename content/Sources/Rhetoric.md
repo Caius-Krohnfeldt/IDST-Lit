@@ -1,0 +1,36 @@
+- Epoch/Paradigm
+	- [[Ancient]]
+- Author(s)
+	- [[Aristotle]]
+- Translator(s)
+	- [[Freese]], John Henry
+- Editor(s)
+	- 
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- [[1926]]
+- Original Date
+	- ~[[350BCE]]
+- Publisher(s)
+	- Harvard University Press
+- Volume
+	- 
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- Aristotle. Rhetoric. Translated by John Henry Freese. Harvard University Press, 1926.
+- Section/Chapters for use
+	- I.2, II
+- "Abstract"
+	- Aristotle defines emotions as those things through which people change and differ in their judgments, accompanied by pain and pleasure (II.1, 1378a19-22). Each emotion is then analyzed by three questions: the state of mind of those who feel it, the persons toward whom it is felt, and the grounds on which it is felt (1378a22-26). Anger is a desire for revenge, accompanied by pain, caused by a perceived slight (II.2, 1378a30-33). Fear is pain or disturbance from imagining a future destructive or painful evil (II.5, 1382a21-22), which depends on phantasia. Shame is pain or disturbance concerning ills that seem to bring disrepute (II.6, 1383b12-14), and it requires an audience whose opinion matters, which is why the section is among the most social in the text. In all of these, emotion is evaluative, relational, and shaped by status, so it cannot be located only inside the individual. This anticipates the “inside out” versus “outside in” problem Ahmed frames in The Cultural Politics of Emotion, though I’d confirm how she positions Aristotle before drawing the link. The treatment of shame also offers a useful contrast with Tomkins, who locates shame in the incomplete reduction of interest or joy rather than in a judgment about one’s reputation. II.12-17 adds that emotional dispositions vary with age and fortune, a rough early account of social position and affect.
+- Direct Quote(s)
+	- 

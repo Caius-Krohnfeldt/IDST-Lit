@@ -1,0 +1,38 @@
+- Epoch/Paradigm
+	- [[Contemporary]]
+- Author(s)
+	- [[Tomkins]], Silvan
+- Translator(s)
+	- 
+- Editor(s)
+	- [[Karon]], Bertram P.
+- Container Book/Journal
+	- 
+- Form/Type
+	- Book
+- Publication Year
+	- [[2008]]
+- Original Date
+	- [[1962]]/[[1963]]
+- Publisher(s)
+	- Springer Publishing Company
+- Volume
+	- I, and II
+- Issue
+	- 
+- Pages
+	- 
+- Edition
+	- 
+- Link(s)
+	- 
+- Chicago Endnote
+	- [[Tomkins]], Silvan. [[Affect, Imagery, Consciousness]]. Edited by Bertram P. [[Karon]]. Springer Publishing Company, [[2008]].
+- Section/Chapters for use
+	- 
+- "Abstract"
+	- In the first two volumes of Affect Imagery Consciousness, Tomkins proposes that human motivation rests on an innate affect system, which he distinguishes from the biological drive system. Drives, such as hunger or sex, are tied to specific bodily needs, objects, and time frames. Affects are more general and can attach to nearly any object, event, or idea, and Tomkins argues that this flexibility makes them the primary motivational system. The argument challenges psychoanalytic drive theory and the behaviorist models dominant in mid-century psychology. Volume 1 develops the general theory and treats the positive affects, interest-excitement and enjoyment-joy, along with the neutral affect surprise-startle. Tomkins argues that affects are innate patterns of neural firing, triggered by changes in the level or rate of stimulation, and that the face is central to their expression and experience. This facial-feedback argument later shaped affect research by Paul Ekman and Carroll Izard. Tomkins also describes affect as an amplifier: it gives urgency and intensity to the drives and to cognition and perception without being reducible to them. Volume 2 turns to the negative affects, including distress-anguish, shame-humiliation, and contempt-disgust. Its most influential claim is that shame operates as an incomplete reduction of positive affect. When interest or enjoyment is interrupted but not extinguished, shame results, so shame is inseparable from the investments it interrupts. Volume 2 also begins the account of how affects combine with memory, imagery, and experience into the larger structures Tomkins later called scripts and ideo-affective formations.
+- Main Claims
+	- Affect amplifies, and it the primary motivator of action (as opposed to drive theory and behaviorism). This system is innate, quantifiable, and identifiable across subject. 
+- Direct Quote(s)
+	- 
